@@ -12,7 +12,7 @@ This codeplug is based on that originally developed for TYT MD380 by Matt VK2MRC
 
 <b>Testing</b> These codeplugs are provided "as is" without support. Use them at your own risk. Testing has been limited to a GD-77 with Firmware v3.0.6 All editing of the codeplug has been done using using Radioddity GD-77 CPS v2.0.5
 
-<b>Importing from csv files</b>. If you are using a CPS version other then v2.0.5 you can download the csv files used to create this codeplug (GD77_All_AU_DMR+analog.csv.zip) and import the Contacts and Channels into the CPS before writing to the GD-77.  NOTE that the Contacts must be imported before the Channels.
+<b>Importing from csv files</b>. If you are using a CPS version other then v2.0.5 you can download the csv files used to create this codeplug (GD77_All_AU_DMR+analog.csv.zip) and import the Contacts and Channels into the CPS before writing to the GD-77.  NOTE that the Contacts must be imported before the Channels. Edit and merge the Channels files to suit your local requirements, but do not change the Contacts CSV - the channels depend on it.  To change a Contact value on a Channels csv, add one (+1) to the Number field value displayed int the Channels_v0.2.csv 
 
 <b>To use these Codeplugs:</b> Before you write these codeplugs to your radio, replace the callsign and DMR ID with your own in General settings.
 

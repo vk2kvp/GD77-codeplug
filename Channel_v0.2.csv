@@ -1,0 +1,202 @@
+Number,Name,Rx Freq,Tx Freq,Ch Mode,Power,Rx Tone,Tx Tone,Color Code,Rx Group List,Contact,Repeater Slot
+0,Home Scan,439.125,439.125,Digital,Low,None,None,1,4,1,1
+1,DV4 TG9 S1,439.125,439.125,Digital,Low,None,None,1,4,1,1
+2,DV4 BM TG9 S2,439.125,439.125,Digital,Low,None,None,1,4,0,2
+3,DV4 tg133 US,439.125,439.125,Digital,Low,None,None,1,4,44,2
+4,DV4 tg143 UK,439.125,439.125,Digital,Low,None,None,1,4,45,2
+5,DV4 tg153 SthPa,439.125,439.125,Digital,Low,None,None,1,4,46,2
+6,DV4 tg3800 AU,439.125,439.125,Digital,Low,None,None,1,4,47,2
+7,DV4 tg3801 ACT,439.125,439.125,Digital,Low,None,None,1,4,48,2
+8,DV4 tg3802 NSW,439.125,439.125,Digital,Low,None,None,1,4,49,2
+9,DV4 tg3803 Vic,439.125,439.125,Digital,Low,None,None,1,4,50,2
+10,DV4 tg3804 Qld,439.125,439.125,Digital,Low,None,None,1,4,51,2
+11,DV4 tg3805 SA,439.125,439.125,Digital,Low,None,None,1,4,52,2
+12,DV4 tg3806 WA,439.125,439.125,Digital,Low,None,None,1,4,53,2
+13,DV4 tg3807 Tas,439.125,439.125,Digital,Low,None,None,1,4,54,2
+14,DV hs Scan,439.125,439.125,Digital,Low,None,None,1,4,1,2
+15,DVm TG9S2,439.15,439.15,Digital,Low,None,None,1,2,5,2
+16,DVm 505 AU,439.15,439.15,Digital,Low,None,None,1,2,15,2
+17,DVm 5051 ACT,439.15,439.15,Digital,Low,None,None,1,2,30,2
+18,DVm 5052 NSW,439.15,439.15,Digital,Low,None,None,1,2,31,2
+19,DVm 5053 Vic,439.15,439.15,Digital,Low,None,None,1,2,32,2
+20,DVm 5054 Qld,439.15,439.15,Digital,Low,None,None,1,2,33,2
+21,DVm 5055 SA,439.15,439.15,Digital,Low,None,None,1,2,34,2
+22,DVm 5056 WA,439.15,439.15,Digital,Low,None,None,1,2,35,2
+23,DVm 5057 Tas,439.15,439.15,Digital,Low,None,None,1,2,36,2
+24,DVm WICEN,439.15,439.15,Digital,Low,None,None,1,2,43,1
+25,DVm TG91 WW,439.15,439.15,Digital,Low,None,None,1,2,39,1
+26,DVm TG913 WWE,439.15,439.15,Digital,Low,None,None,1,2,40,1
+27,DVm TG923 EU E,439.15,439.15,Digital,Low,None,None,1,2,40,1
+28,DVm TG95 PacRim,439.15,439.15,Digital,Low,None,None,1,2,42,1
+29,DVm 26204,439.15,439.15,Digital,Low,None,None,1,2,55,1
+30,DVm 4000 discnt,439.15,439.15,Digital,Low,None,None,1,0,27,1
+31,DVm 5000 status,439.15,439.15,Digital,Low,None,None,1,0,28,1
+32,DVm 31665,439.15,439.15,Digital,Low,None,None,1,2,56,2
+33,DVm YSF 50599,439.15,439.15,Digital,Low,None,None,1,2,37,2
+34,Spare 8,438.025,433.025,Digital,High,None,None,1,4,0,2
+35,Spare 9,439.4125,430.9125,Digital,High,None,None,1,1,0,1
+36,Spare 10,438.125,433.125,Digital,High,None,None,1,4,0,2
+37,Spare 11,400,400,Digital,High,None,None,0,4,1,1
+38,Spare 12,400,400,Digital,High,None,None,0,4,1,1
+39,438.7 Simplex,438.7,438.7,Digital,High,None,None,1,0,1,1
+40,11 1RBM Scan,438.8125,431.8125,Digital,High,None,None,0,1,1,1
+41,11 TG1 WW,438.8125,431.8125,Digital,High,None,None,1,1,2,1
+42,11 TG5 VK Bcast,438.8125,431.8125,Digital,High,None,None,0,1,3,1
+43,11 TG8 S1,438.8125,431.8125,Digital,High,None,None,1,1,4,1
+44,11 TG9 S1 Loc,438.8125,431.8125,Digital,High,None,None,1,1,5,1
+45,11 TG13 WWE,438.8125,431.8125,Digital,High,None,None,1,1,6,1
+46,11 TG113 UA E1,438.8125,431.8125,Digital,High,None,None,1,1,9,1
+47,11 TG123 UA E2,,,,,,,,,,
+48,11 TG153 SthPac,,,,,,,,,,
+49,11 TG505 AU,,,,,,,,,,
+50,11 TG3800 AU+,,,,,,,,,,
+51,11 TG3801 ACT,,,,,,,,,,
+52,11 TG3802 NSW,,,,,,,,,,
+53,11 TG3803 Vic,,,,,,,,,,
+54,11 TG3804 Qld,,,,,,,,,,
+55,11 TG3805 SA,,,,,,,,,,
+56,,,,,,,,,,,
+56,,,,,,,,,,,
+57,,,,,,,,,,,
+,,,,,,,,,,,
+46,VK2RHR 7 HghRng,438.025,433.025,Analog,High,None,None,0,0,1,1
+47,VK2RNC 7 LHntr,438.025,433.025,Analog,High,None,None,0,0,1,1
+48,VK2RTW 7 Waga4,438.025,433.025,Analog,High,91.5,91.5,0,0,1,1
+49,VK1RGI 7 Gnini,438.05,433.05,Analog,High,91.5,91.5,0,0,1,1
+50,VK2RAG 7 Gosfrd,438.075,433.075,Analog,High,91.5,91.5,0,0,1,1
+51,VK2RMY 7 Kmpsy,438.075,433.075,Analog,High,None,None,0,0,1,1
+52,VK2RRW 7 NthSyd,438.1,433.1,Analog,High,None,None,0,0,1,1
+53,VK2RBV 7 Syd,438.1125,432.7125,Analog,High,91.5,91.5,0,0,1,1
+54,VK2RMB 7 Syd,438.175,433.175,Analog,High,91.5,91.5,0,0,1,1
+55,VK2RWS 7 Syd,438.275,432.875,Analog,High,91.5,91.5,0,0,1,1
+56,VK2RGN 7 Goulb3,438.325,433.325,Analog,High,None,None,0,0,1,1
+57,VK2RHT 7 Chtswd,438.35,432.95,Analog,High,91.5,91.5,0,0,1,1
+58,VK2RPM 7 PtMcqr,438.525,433.525,Analog,High,123,123,0,0,1,1
+59,VK2RAY 7 Albry,438.575,433.575,Analog,High,None,None,0,0,1,1
+60,VK2RUM 7 Ncstle,438.625,433.625,Analog,High,None,None,0,0,1,1
+61,VK2RGN 7Goulbn2,438.625,433.625,Analog,High,None,None,0,0,1,1
+62,VK2RAD 7 Armdal,438.65,433.65,Analog,High,None,None,0,0,1,1
+64,VK2RPL 7 Lismr,438.675,433.675,Analog,High,None,None,0,0,0,1
+65,VK2RAO 7 Orange,438.725,433.725,Analog,High,None,None,0,0,1,1
+66,VK2RMP 7 Wlgogn,438.725,433.725,Analog,High,123,123,0,0,1,1
+67,VK2RMR 7 BluMtn,439.575,434.575,Analog,High,123,123,0,0,1,1
+68,VK2RTW 7 Waga3,439.8,434.8,Analog,High,91.5,91.5,0,0,1,1
+69,VK2RLH 7 Bthrst,439.85,434.85,Analog,High,None,None,0,0,1,1
+70,VK2RWP 7 Bega,439.9,434.9,Analog,High,None,None,0,0,1,1
+71,VK1RBM 7 Issac,439.95,434.95,Analog,High,91.5,91.5,0,0,1,1
+72,VK2RAG 7 CntCst,439.95,434.95,Analog,High,91.5,91.5,0,0,1,1
+73,VK2RDD 7 Dubbo,439.95,434.95,Analog,High,None,None,0,0,1,1
+74,VK2RGN 7 Goulbn,439.95,434.95,Analog,High,None,None,0,0,1,1
+75,VK2RSC 7 Lismr,439.95,434.95,Analog,High,123,123,0,0,1,1
+76,Spare,400,400,Analog,High,None,None,0,0,1,1
+79,Spare 2,400,400,Analog,High,None,None,0,0,1,1
+80,VK3RBO 7 Bndigo,438.025,433.025,Analog,High,None,None,0,0,1,1
+81,VK3RCC 7 Melbn,438.025,433.025,Analog,High,91.5,91.5,0,0,1,1
+82,VK3RLE Paps,438.125,433.125,Analog,High,None,None,0,0,1,1
+83,VK3RIR 7 Bndigo,438.15,433.15,Analog,High,91.5,91.5,0,0,1,1
+84,VK3RUG 7 Eildn,438.175,434.175,Analog,High,None,None,0,0,1,1
+85,VK3RCD 7 Knglak,438.1875,432.7875,Analog,High,None,None,0,0,1,1
+86,VK3RMS 7 Olinda,438.225,433.225,Analog,High,91.5,91.5,0,0,1,1
+87,VK3RBN 7 Balrat,438.35,433.35,Analog,High,91.5,91.5,0,0,1,1
+88,VK3RGS 7 Frstr,438.375,433.375,Analog,High,None,None,0,0,1,1
+89,VK3RHO 7 NE Vic,438.375,433.375,Analog,High,None,None,0,0,1,1
+90,VK3RCU 7 Bndgo,438.425,433.425,Analog,High,None,None,0,0,1,1
+91,VK3RBW 7 WMelb,438.45,433.45,Analog,High,91.5,91.5,0,0,1,1
+92,VK3RBU 7 Balrat,438.475,433.475,Analog,High,91.5,91.5,0,0,1,1
+93,VK3RGW 7 WGelng,438.5,433.5,Analog,High,91.5,91.5,0,0,1,1
+94,VK3RAD 7 Mtchm,438.525,433.525,Analog,High,123,123,0,0,1,1
+95,VK3RNU 7 Wangrt,438.525,433.525,Analog,High,None,None,0,0,1,1
+96,VK3RRU 7 Mldura,438.525,433.525,Analog,High,None,None,0,0,1,1
+97,VK3RWU 7 Grmpns,438.675,433.675,Analog,High,91.5,91.5,0,0,1,1
+98,VK3RHF 7 Olinda,438.75,433.75,Analog,High,88.5,88.5,0,0,1,1
+99,VK3RBA 7 Balart,439.275,434.275,Analog,High,91.5,91.5,0,0,1,1
+100,VK3RYV 7 YraVly,439.3,434.3,Analog,High,None,None,0,0,1,1
+101,VK3RGH 7 Macdn,439.325,434.325,Analog,High,91.5,91.5,0,0,1,1
+102,VK3RNE 7 Wodnga,439.425,434.425,Analog,High,None,None,0,0,1,1
+103,VK3RGL 7 Gelong,439.5,434.5,Analog,High,91.5,91.5,0,0,1,1
+104,VK3RPT 7 Klmr,439.525,434.525,Analog,High,91.5,91.5,0,0,1,1
+105,VK3RGV 7 NEVic,439.775,434.775,Analog,High,123,123,0,0,1,1
+106,VK3RMG 7 Yea,439.95,434.95,Analog,High,None,None,0,0,1,1
+107,VK3RPL 7 Prtlnd,439.95,434.95,Analog,High,91.5,91.5,0,0,1,1
+108,VK3RBP 7 Horshm,439.7,434.7,Analog,High,91.5,91.5,0,0,1,1
+109,VK3RDX 7 MtWavr,439.6,434.6,Analog,High,91.5,91.5,0,0,1,1
+110,END AN UHF VIC,400,400,Analog,High,None,None,0,0,1,1
+126,VK2RAA 2m NtTas,147,146.4,Analog,High,None,None,0,0,1,1
+137,VK7RAD 2mHbrt2,147.975,147.375,Analog,High,None,None,2,0,0,2
+138,VK7RBI 2m SETas,147.3,147.3,Analog,High,114.8,114.8,2,2,0,2
+139,VK7RWC 2m W Cst,147.075,147.675,Analog,High,123,123,2,2,0,2
+140,VK7RVP 2m NWtas,146.725,146.125,Analog,High,91.5,91.5,2,2,0,2
+141,VK7RAD 2m Hbrt,146.7,146.1,Analog,High,141.3,141.3,2,2,0,2
+142,VK7RAF 2m Hbrt,146.65,146.05,Analog,High,123,123,2,2,0,2
+143,VK4RBN 2m Brisb,147,145.4,Analog,High,91.5,91.5,2,2,0,2
+144,VK4RLW 2m Logan,146.975,146.375,Analog,High,91.5,91.5,2,2,0,2
+145,VK4RBQ 2m Brsbn,146.95,146.35,Analog,High,91.5,91.5,2,2,0,2
+146,VK4RGA 2m CntQl,146.9,146.3,Analog,High,91.5,91.5,3,1,1,1
+147,VK4RSC 2m SnCst,146.85,146.25,Analog,High,91.5,91.5,3,1,0,1
+148,VK4RSL 2m SnCst,146.825,146.225,Analog,High,91.5,91.5,3,1,0,1
+149,VK4RBM 2m Mcky,146.775,146.175,Analog,High,91.5,91.5,3,1,0,1
+150,VK4RCM 2m Gmpy,146.725,146.125,Analog,High,91.5,91.5,3,1,0,1
+151,VK4RGC 2m GCst,146.7,146.1,Analog,High,123,123,3,1,0,1
+152,VK4RAT 2m Tnsvl,146.7,146.1,Analog,High,None,None,3,1,0,1
+153,VK4RSA 2m Macky,146.675,146.075,Analog,High,None,None,3,1,0,1
+154,VK4RAR 2m Rkhmt,146.7,146.1,Analog,High,91.5,91.5,3,0,0,1
+155,VK4RET 2m DDwns,146.675,146.075,Analog,High,91.5,91.5,3,1,0,1
+156,VK4RHB 2m HrvBa,146.65,146.05,Analog,High,None,None,3,1,0,1
+157,VK4ROM 2m Roma,146.65,146.05,Analog,High,None,None,3,1,0,1
+158,VK4RGT 2m Gldst,146.625,146.025,Analog,High,91.5,91.5,3,2,0,2
+159,VK5RBT 2m Bdtwn,147.35,147.95,Analog,High,None,None,3,2,0,2
+160,VK5RLD 2m Rvlnd,147.325,147.925,Analog,High,None,None,3,2,0,2
+161,VK5RAD 2m Crfrs,147,146.4,Analog,High,None,None,3,2,0,2
+162,VK5RAE 2m PtAgs,146.975,146.375,Analog,High,None,None,3,2,0,2
+163,VK5RLH 2m CntNt,146.925,146.325,Analog,High,None,None,3,2,0,2
+164,VK5RMG 2m MtGmb,146.9,146.3,Analog,High,None,None,3,2,0,2
+165,VK5RMB 2m MBdge,146.875,146.275,Analog,High,None,None,3,2,0,2
+166,VK5RHO 2m Adlde,146.85,146.25,Analog,High,None,None,3,2,0,2
+167,VK5RBV 2m Brosa,146.825,146.225,Analog,High,None,None,3,2,0,2
+168,VK5RSE 2m Mlcnt,146.8,146.2,Analog,High,None,None,3,2,0,2
+169,VK5REP 2mEyrPen,146.8,146.2,Analog,High,None,None,3,2,0,2
+170,VK5RAC 2mLEyrPn,146.75,146.15,Analog,High,None,None,3,1,1,1
+171,VK5RAH 2mAdlHls,146.775,146.175,Analog,High,None,None,3,1,0,1
+172,VK5RBK 2m MtBkr,146.725,146.125,Analog,High,None,None,3,1,0,1
+173,VK5RMN 2m PtPri,146.7,146.1,Analog,High,None,None,3,1,0,1
+174,VK5RSV 2mAdlSth,146.675,146.075,Analog,High,None,None,1,0,0,2
+175,VK5RLZ 2m AdNth,146.625,146.025,Analog,High,None,None,3,1,0,1
+176,VK3REC 2m Olnda,147.175,147.775,Analog,High,None,None,3,1,0,1
+177,VK3RCV 2m Bndgo,147.15,147.75,Analog,High,None,None,3,1,0,1
+178,VK3RGC 2m Gelng,147.125,147.725,Analog,High,91.5,91.5,3,1,0,1
+179,VK3RPB 2m Brght,147.1,147.7,Analog,High,None,None,3,1,0,1
+180,VK3RCR 2m EMlbn,147.075,147.675,Analog,High,None,None,3,1,0,1
+181,VK3RHO 2m MHthm,147.05,147.65,Analog,High,None,None,3,1,0,1
+182,VK3RNE 2m Wdnga,147,146.4,Analog,High,None,None,3,2,0,2
+183,VK3RGL 2m Glng,147,146.4,Analog,High,91.5,91.5,3,2,0,2
+184,VK3RGH 2m Mcdn,146.875,146.275,Analog,High,91.5,91.5,3,2,0,2
+185,VK3RMN 2m KngLk,146.85,146.25,Analog,High,91.5,91.5,3,2,0,2
+186,VK3RMA 2m Mldra,146.8,146.2,Analog,High,None,None,3,2,0,2
+187,VK3RAJ 2m ESEMl,146.875,146.275,Analog,High,94.8,94.8,3,2,0,2
+188,VK3RAG 2m Alnxd,146.775,146.175,Analog,High,123,123,3,2,0,2
+189,VK3RBA 2m Balrt,146.75,146.15,Analog,High,91.5,91.5,3,2,0,2
+190,VK3RML 2m EMelb,146.7,146.1,Analog,High,91.5,91.5,3,2,0,2
+191,VK3RCA 2m Echuc,146.675,146.075,Analog,High,None,None,3,2,0,2
+192,VK3RVG 2m Shep,146.65,146.05,Analog,High,123,123,3,2,0,2
+193,VK3RBT 2m Balrt,146.65,146.05,Analog,High,91.5,91.5,3,2,0,2
+194,VK2RGN 2m Glbn,146.625,146.025,Analog,High,None,None,0,0,0,1
+195,VK1RBM 2m Isacs,146.725,146.125,Analog,High,91.5,91.5,0,0,1,1
+196,VK2RCD 2m Dubbo,146.725,146.125,Analog,High,None,None,0,0,1,1
+197,VK2RWG 2m Wagga,146.75,146.15,Analog,High,91.5,91.5,0,0,1,1
+198,VK2RBE 2m Young,146.775,146.175,Analog,High,91.5,91.5,0,0,1,1
+199,VK2RTZ 2m Ncstl,146.775,146.175,Analog,High,91.5,91.5,0,0,1,1
+200,VK2RCC 2m Cnbrb,146.8,146.2,Analog,High,None,None,0,0,1,1
+201,VK2RTD 2m Tumut,146.8,146.2,Analog,High,91.5,91.5,0,0,1,1
+202,VK2RSC 2m Lismr,146.8,146.2,Analog,High,123,123,0,0,1,1
+203,VK2RGA 2m Lchrt,146.825,146.225,Analog,High,91.5,91.5,0,0,1,1
+204,VK1RAC 2m Issac,146.9,146.3,Analog,High,None,None,0,0,1,1
+205,VK1RGI 2m Gnini,146.95,146.35,Analog,High,91.5,91.5,0,0,1,1
+206,VK2RWI 2m Dural,147,146.4,Analog,High,None,None,0,0,1,1
+207,VK2RAY 2m Albry,147.225,147.825,Analog,High,118.8,118.8,0,0,1,1
+208,VK2RMO 2m Tmwth,146.85,146.25,Analog,High,None,None,0,0,1,1
+209,VK2RTW 7 Waga2,438.025,433.025,Analog,High,91.5,91.5,0,0,1,1
+210,VK1RGI 7 Ginini,433.05,433.05,Analog,High,91.5,91.5,0,0,1,1
+211,2m Splx 50,146.5,146.5,Analog,High,None,None,0,0,1,1
+212,VK2RNC 2m LHntr,146.975,146.375,Analog,High,None,None,0,0,1,1
+213,VK2RUW 2m Wgng,146.975,146.375,Analog,High,None,None,0,0,1,1
+214,VK2ROT 2mSyd,147.025,147.625,Analog,High,91.5,91.5,0,0,1,1

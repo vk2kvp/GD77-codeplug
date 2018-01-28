@@ -6,7 +6,7 @@ This codeplug is based on that originally developed for TYT MD380 by Matt VK2MRC
 <b>Hotspot/Dongle Frequencies:</b> Australian band plan assigns the following 70cm frequencies for Internet gateways:
 - 439.125 (used for the DV4 channels to suit DV4mini)
 - 439.150 (used for the DVm channels to suit DVmega and other MMDVM hotspots.)
-- 439.175 (not allocated, but used in Z bm channels for my CHINspot)
+- 439.175 (not allocated, but used in Z bm channels for my MMDVM Pi-Hat)
 
 439.200 is assigned for digital simplex operation.
 

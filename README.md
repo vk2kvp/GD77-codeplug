@@ -10,6 +10,11 @@ This codeplug is based on that originally developed for TYT MD380 by Matt VK2MRC
 
 439.200 is assigned for digital simplex operation.
 
+<b>Channel Naming Convention</b> 
+- DMR-MARC and DMR+ channels are preceeded with a numeral. The numbering is random, however, all channels corresponding to a particular repeater have the same prefic numeral. 
+- Brandmeister channel names are preceeded with the repeater's callsign (without the VK).
+- Analogue repeaters have only one channel each and so their channel name is simply the repeater's callsign.
+
 <b>Testing</b> These codeplugs are provided "as is" without support. Use them at your own risk. Testing has been limited to a GD-77 with Firmware v3.0.6 All editing of the codeplug has been done using using Radioddity GD-77 CPS v2.0.5
 
 <b>Importing from csv files</b>. If you are using a CPS version other then v2.0.5 you can download the csv files used to create this codeplug (GD77_All_AU_DMR+analog.csv.zip) and import the Contacts and Channels into the CPS before writing to the GD-77.  NOTE that the Contacts must be imported before the Channels. Edit and merge the Channels files to suit your local requirements, but do not change the Contacts CSV - the channels depend on it.  To change a Contact value on a Channels csv, add one (+1) to the Number field value displayed int the Channels_v0.2.csv 
@@ -23,4 +28,5 @@ This codeplug is based on that originally developed for TYT MD380 by Matt VK2MRC
 - created zones for three Hotspots and each DMR repeater
 - commenced creation of scan lists to correspond to zones
 - Number Keys assigned to Brandmeister TGs 0->505, 1-7->5051-5057, 9->50599
+- Corrections to some channel names and Contact Group values were made in the codeplug using the GD-77 CPS and may not be reflected in the csv files.
 

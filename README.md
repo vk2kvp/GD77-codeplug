@@ -11,7 +11,7 @@ This codeplug is based on that originally developed for TYT MD380 by Matt VK2MRC
 439.200 is assigned for digital simplex operation.
 
 <b>Channel Naming Convention</b> 
-- DMR-MARC and DMR+ channels are preceeded with a numeral. The numbering is random, however, all channels corresponding to a particular repeater have the same prefic numeral. 
+- DMR-MARC and DMR+ channels are preceeded with a numeral. The numbering is random, however, all channels corresponding to a particular repeater have the same prefix numeral for ease of aggregating into zones and scan lists. 
 - Brandmeister channel names are preceeded with the repeater's callsign (without the VK).
 - Analogue repeaters have only one channel each and so their channel name is simply the repeater's callsign.
 

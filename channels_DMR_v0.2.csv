@@ -1,0 +1,815 @@
+Number,Name,Rx Freq,Tx Freq,Ch Mode,Power,Rx Tone,Tx Tone,Color Code,Rx Group List,Contact,Repeater Slot
+,11 VK1RBM Scan,438.8125,431.8125,Digital,High,None,None,1,3,1,1
+,11 TG1 WW,438.8125,431.8125,Digital,High,None,None,1,3,2,1
+,11 TG5 VK Bcast,438.8125,431.8125,Digital,High,None,None,1,3,3,1
+,11 TG8 S1,438.8125,431.8125,Digital,High,None,None,1,3,4,1
+,11 TG9 S1 Loc,438.8125,431.8125,Digital,High,None,None,1,3,5,1
+,11 TG13 WWE,438.8125,431.8125,Digital,High,None,None,1,3,6,1
+,11 TG113 UA E1,438.8125,431.8125,Digital,High,None,None,1,3,9,1
+,11 TG123 UA E2,438.8125,431.8125,Digital,High,None,None,1,3,10,1
+,11 TG133 +USA,438.8125,431.8125,Digital,High,None,None,1,3,11,1
+,11 TG143 +UK,438.8125,431.8125,Digital,High,None,None,1,3,12,1
+,11 TG153 SthPac,438.8125,431.8125,Digital,High,None,None,1,3,13,1
+,11 TG505 AU,438.8125,431.8125,Digital,High,None,None,1,3,15,1
+,11 TG3800 AU+,438.8125,431.8125,Digital,High,None,None,1,3,17,2
+,11 TG3801 ACT,438.8125,431.8125,Digital,High,None,None,1,3,18,2
+,11 TG3802 NSW,438.8125,431.8125,Digital,High,None,None,1,3,19,2
+,11 TG3803 Vic,438.8125,431.8125,Digital,High,None,None,1,3,20,2
+,11 TG3804 Qld,438.8125,431.8125,Digital,High,None,None,1,3,21,2
+,11 TG3805 SA,438.8125,431.8125,Digital,High,None,None,1,3,22,2
+,11 TG3806 WA,438.8125,431.8125,Digital,High,None,None,1,3,23,2
+,11 TG3807 Tas,438.8125,431.8125,Digital,High,None,None,1,3,24,2
+,11 Ref Discnct,438.8125,431.8125,Digital,High,None,None,1,3,26,1
+,11 Rep Status,438.8125,431.8125,Digital,High,None,None,1,3,27,1
+,19 VK2RFI Scan,147.175,147.775,Digital,High,None,None,1,3,1,1
+,19 TG1 WW,147.175,147.775,Digital,High,None,None,1,3,2,1
+,19 TG5 VK Bcast,147.175,147.775,Digital,High,None,None,1,3,3,1
+,19 TG8 S1,147.175,147.775,Digital,High,None,None,1,3,4,1
+,19 TG9 S1 Loc,147.175,147.775,Digital,High,None,None,1,3,5,1
+,19 TG13 WWE,147.175,147.775,Digital,High,None,None,1,3,6,1
+,19 TG113 UA E1,147.175,147.775,Digital,High,None,None,1,3,9,1
+,19 TG123 UA E2,147.175,147.775,Digital,High,None,None,1,3,10,1
+,19 TG133 +USA,147.175,147.775,Digital,High,None,None,1,3,11,1
+,19 TG143 +UK,147.175,147.775,Digital,High,None,None,1,3,12,1
+,19 TG153 SthPac,147.175,147.775,Digital,High,None,None,1,3,13,1
+,19 TG505 AU,147.175,147.775,Digital,High,None,None,1,3,15,1
+,19 TG3800 AU+,147.175,147.775,Digital,High,None,None,1,3,17,2
+,19 TG3801 ACT,147.175,147.775,Digital,High,None,None,1,3,18,2
+,19 TG3802 NSW,147.175,147.775,Digital,High,None,None,1,3,19,2
+,19 TG3803 Vic,147.175,147.775,Digital,High,None,None,1,3,20,2
+,19 TG3804 Qld,147.175,147.775,Digital,High,None,None,1,3,21,2
+,19 TG3805 SA,147.175,147.775,Digital,High,None,None,1,3,22,2
+,19 TG3806 WA,147.175,147.775,Digital,High,None,None,1,3,23,2
+,19 TG3807 Tas,147.175,147.775,Digital,High,None,None,1,3,24,2
+,19 Ref Discnct,147.175,147.775,Digital,High,None,None,1,3,26,1
+,19 Rep Status,147.175,147.775,Digital,High,None,None,1,3,27,1
+,20 VK2RTH Scan,438.4,431.4,Digital,High,None,None,1,3,1,1
+,20 TG1 WW,438.4,431.4,Digital,High,None,None,1,3,2,1
+,20 TG5 VK Bcast,438.4,431.4,Digital,High,None,None,1,3,3,1
+,20 TG8 S1,438.4,431.4,Digital,High,None,None,1,3,4,1
+,20 TG9 S1 Loc,438.4,431.4,Digital,High,None,None,1,3,5,1
+,20 TG13 WWE,438.4,431.4,Digital,High,None,None,1,3,6,1
+,20 TG113 UA E1,438.4,431.4,Digital,High,None,None,1,3,9,1
+,20 TG123 UA E2,438.4,431.4,Digital,High,None,None,1,3,10,1
+,20 TG133 +USA,438.4,431.4,Digital,High,None,None,1,3,11,1
+,20 TG143 +UK,438.4,431.4,Digital,High,None,None,1,3,12,1
+,20 TG153 SthPac,438.4,431.4,Digital,High,None,None,1,3,13,1
+,20 TG505 AU,438.4,431.4,Digital,High,None,None,1,3,15,1
+,20 TG3800 AU+,438.4,431.4,Digital,High,None,None,1,3,17,2
+,20 TG3801 ACT,438.4,431.4,Digital,High,None,None,1,3,18,2
+,20 TG3802 NSW,438.4,431.4,Digital,High,None,None,1,3,19,2
+,20 TG3803 Vic,438.4,431.4,Digital,High,None,None,1,3,20,2
+,20 TG3804 Qld,438.4,431.4,Digital,High,None,None,1,3,21,2
+,20 TG3805 SA,438.4,431.4,Digital,High,None,None,1,3,22,2
+,20 TG3806 WA,438.4,431.4,Digital,High,None,None,1,3,23,2
+,20 TG3807 Tas,438.4,431.4,Digital,High,None,None,1,3,24,2
+,20 Ref Discnct,438.4,431.4,Digital,High,None,None,1,3,26,1
+,20 Rep Status,438.4,431.4,Digital,High,None,None,1,3,27,1
+,21 VK2RGN Scan,438.325,433.325,Digital,High,None,None,1,3,1,1
+,21 TG1 WW,438.325,433.325,Digital,High,None,None,1,3,2,1
+,21 TG5 VK Bcast,438.325,433.325,Digital,High,None,None,1,3,3,1
+,21 TG8 S1,438.325,433.325,Digital,High,None,None,1,3,4,1
+,21 TG9 S1 Loc,438.325,433.325,Digital,High,None,None,1,3,5,1
+,21 TG13 WWE,438.325,433.325,Digital,High,None,None,1,3,6,1
+,10 TG113 UA E1,438.325,433.325,Digital,High,None,None,1,3,9,1
+,21 TG123 UA E2,438.325,433.325,Digital,High,None,None,1,3,10,1
+,21 TG133 +USA,438.325,433.325,Digital,High,None,None,1,3,11,1
+,21 TG143 +UK,438.325,433.325,Digital,High,None,None,1,3,12,1
+,21 TG153 SthPac,438.325,433.325,Digital,High,None,None,1,3,13,1
+,21 TG505 AU,438.325,433.325,Digital,High,None,None,1,3,15,1
+,21 TG3800 AU+,438.325,433.325,Digital,High,None,None,1,3,17,2
+,21 TG3801 ACT,438.325,433.325,Digital,High,None,None,1,3,18,2
+,21 TG3802 NSW,438.325,433.325,Digital,High,None,None,1,3,19,2
+,21 TG3803 Vic,438.325,433.325,Digital,High,None,None,1,3,20,2
+,21 TG3804 Qld,438.325,433.325,Digital,High,None,None,1,3,21,2
+,21 TG3805 SA,438.325,433.325,Digital,High,None,None,1,3,22,2
+,21 TG3806 WA,438.325,433.325,Digital,High,None,None,1,3,23,2
+,21 TG3807 Tas,438.325,433.325,Digital,High,None,None,1,3,24,2
+,21 Ref Discnct,438.325,433.325,Digital,High,None,None,1,3,26,1
+,21 Rep Status,438.325,433.325,Digital,High,None,None,1,3,27,1
+,22 VK2RHR Scan,439.9,434.9,Digital,High,None,None,1,3,1,1
+,22 TG1 WW,439.9,434.9,Digital,High,None,None,1,3,2,1
+,22 TG5 VK Bcast,439.9,434.9,Digital,High,None,None,1,3,3,1
+,22 TG8 S1,439.9,434.9,Digital,High,None,None,1,3,4,1
+,22 TG9 S1 Loc,439.9,434.9,Digital,High,None,None,1,3,5,1
+,22 TG13 WWE,439.9,434.9,Digital,High,None,None,1,3,6,1
+,22 TG113 UA E1,439.9,434.9,Digital,High,None,None,1,3,9,1
+,22 TG123 UA E2,439.9,434.9,Digital,High,None,None,1,3,10,1
+,22 TG133 +USA,439.9,434.9,Digital,High,None,None,1,3,11,1
+,22 TG143 +UK,439.9,434.9,Digital,High,None,None,1,3,12,1
+,22 TG153 SthPac,439.9,434.9,Digital,High,None,None,1,3,13,1
+,22 TG505 AU,439.9,434.9,Digital,High,None,None,1,3,15,1
+,22 TG3800 AU+,439.9,434.9,Digital,High,None,None,1,3,17,2
+,22 TG3801 ACT,439.9,434.9,Digital,High,None,None,1,3,18,2
+,22 TG3802 NSW,439.9,434.9,Digital,High,None,None,1,3,19,2
+,22 TG3803 Vic,439.9,434.9,Digital,High,None,None,1,3,20,2
+,22 TG3804 Qld,439.9,434.9,Digital,High,None,None,1,3,21,2
+,22 TG3805 SA,439.9,434.9,Digital,High,None,None,1,3,22,2
+,22 TG3806 WA,439.9,434.9,Digital,High,None,None,1,3,23,2
+,22 TG3807 Tas,439.9,434.9,Digital,High,None,None,1,3,24,2
+,22 Ref Discnct,439.9,434.9,Digital,High,None,None,1,3,26,1
+,22 Rep Status,439.9,434.9,Digital,High,None,None,1,3,27,1
+,23 VK2RYS Scan,438.0125,433.0125,Digital,High,None,None,1,3,1,1
+,23 TG1 WW,438.0125,433.0125,Digital,High,None,None,1,3,2,1
+,23 TG5 VK Bcast,438.0125,433.0125,Digital,High,None,None,1,3,3,1
+,23 TG8 S1,438.0125,433.0125,Digital,High,None,None,1,3,4,1
+,23 TG9 S1 Loc,438.0125,433.0125,Digital,High,None,None,1,3,5,1
+,23 TG13 WWE,438.0125,433.0125,Digital,High,None,None,1,3,6,1
+,23 TG113 UA E1,438.0125,433.0125,Digital,High,None,None,1,3,9,1
+,23 TG123 UA E2,438.0125,433.0125,Digital,High,None,None,1,3,10,1
+,23 TG133 +USA,438.0125,433.0125,Digital,High,None,None,1,3,11,1
+,23 TG143 +UK,438.0125,433.0125,Digital,High,None,None,1,3,12,1
+,23 TG153 SthPac,438.0125,433.0125,Digital,High,None,None,1,3,13,1
+,23 TG505 AU,438.0125,433.0125,Digital,High,None,None,1,3,15,1
+,23 TG3800 AU+,438.0125,433.0125,Digital,High,None,None,1,3,17,2
+,23 TG3801 ACT,438.0125,433.0125,Digital,High,None,None,1,3,18,2
+,23 TG3802 NSW,438.0125,433.0125,Digital,High,None,None,1,3,19,2
+,23 TG3803 Vic,438.0125,433.0125,Digital,High,None,None,1,3,20,2
+,23 TG3804 Qld,438.0125,433.0125,Digital,High,None,None,1,3,21,2
+,23 TG3805 SA,438.0125,433.0125,Digital,High,None,None,1,3,22,2
+,23 TG3806 WA,438.0125,433.0125,Digital,High,None,None,1,3,23,2
+,23 TG3807 Tas,438.0125,433.0125,Digital,High,None,None,1,3,24,2
+,23 Ref Discnct,438.0125,433.0125,Digital,High,None,None,1,3,26,1
+,23 Rep Status,438.0125,433.0125,Digital,High,None,None,1,3,27,1
+,24 VK2RCG Scan,439.5,434.5,Digital,High,None,None,1,3,1,1
+,24 TG1 WW,439.5,434.5,Digital,High,None,None,1,3,2,1
+,24 TG5 VK Bcast,439.5,434.5,Digital,High,None,None,1,3,3,1
+,24 TG8 S1,439.5,434.5,Digital,High,None,None,1,3,4,1
+,24 TG9 S1 Loc,439.5,434.5,Digital,High,None,None,1,3,5,1
+,24 TG13 WWE,439.5,434.5,Digital,High,None,None,1,3,6,1
+,24 TG113 UA E1,439.5,434.5,Digital,High,None,None,1,3,9,1
+,24 TG123 UA E2,439.5,434.5,Digital,High,None,None,1,3,10,1
+,24 TG133 +USA,439.5,434.5,Digital,High,None,None,1,3,11,1
+,24 TG143 +UK,439.5,434.5,Digital,High,None,None,1,3,12,1
+,24 TG153 SthPac,439.5,434.5,Digital,High,None,None,1,3,13,1
+,24 TG505 AU,439.5,434.5,Digital,High,None,None,1,3,15,1
+,24 TG3800 AU+,439.5,434.5,Digital,High,None,None,1,3,17,2
+,24 TG3801 ACT,439.5,434.5,Digital,High,None,None,1,3,18,2
+,24 TG3802 NSW,439.5,434.5,Digital,High,None,None,1,3,19,2
+,24 TG3803 Vic,439.5,434.5,Digital,High,None,None,1,3,20,2
+,24 TG3804 Qld,439.5,434.5,Digital,High,None,None,1,3,21,2
+,24 TG3805 SA,439.5,434.5,Digital,High,None,None,1,3,22,2
+,24 TG3806 WA,439.5,434.5,Digital,High,None,None,1,3,23,2
+,24 TG3807 Tas,439.5,434.5,Digital,High,None,None,1,3,24,2
+,24 Ref Discnct,439.5,434.5,Digital,High,None,None,1,3,26,1
+,24 Rep Status,439.5,434.5,Digital,High,None,None,1,3,27,1
+,25 VK2RRW Scan,438.1,433.1,Digital,High,None,None,1,3,1,1
+,25 TG1 WW,438.1,433.1,Digital,High,None,None,1,3,2,1
+,25 TG5 VK Bcast,438.1,433.1,Digital,High,None,None,1,3,3,1
+,25 TG8 S1,438.1,433.1,Digital,High,None,None,1,3,4,1
+,25 TG9 S1 Loc,438.1,433.1,Digital,High,None,None,1,3,5,1
+,25 TG13 WWE,438.1,433.1,Digital,High,None,None,1,3,6,1
+,25 TG113 UA E1,438.1,433.1,Digital,High,None,None,1,3,9,1
+,25 TG123 UA E2,438.1,433.1,Digital,High,None,None,1,3,10,1
+,25 TG133 +USA,438.1,433.1,Digital,High,None,None,1,3,11,1
+,25 TG143 +UK,438.1,433.1,Digital,High,None,None,1,3,12,1
+,25 TG153 SthPac,438.1,433.1,Digital,High,None,None,1,3,13,1
+,25 TG505 AU,438.1,433.1,Digital,High,None,None,1,3,15,1
+,25 TG3800 AU+,438.1,433.1,Digital,High,None,None,1,3,17,2
+,25 TG3801 ACT,438.1,433.1,Digital,High,None,None,1,3,18,2
+,25 TG3802 NSW,438.1,433.1,Digital,High,None,None,1,3,19,2
+,25 TG3803 Vic,438.1,433.1,Digital,High,None,None,1,3,20,2
+,25 TG3804 Qld,438.1,433.1,Digital,High,None,None,1,3,21,2
+,25 TG3805 SA,438.1,433.1,Digital,High,None,None,1,3,22,2
+,25 TG3806 WA,438.1,433.1,Digital,High,None,None,1,3,23,2
+,25 TG3807 Tas,438.1,433.1,Digital,High,None,None,1,3,24,2
+,25 Ref Discnct,438.1,433.1,Digital,High,None,None,1,3,26,1
+,25 Rep Status,438.1,433.1,Digital,High,None,None,1,3,27,1
+,26 VK2RLE Scan,438.425,433.425,Digital,High,None,None,1,3,1,1
+,26 TG1 WW,438.425,433.425,Digital,High,None,None,1,3,2,1
+,26 TG5 VK Bcast,438.425,433.425,Digital,High,None,None,1,3,3,1
+,26 TG8 S1,438.425,433.425,Digital,High,None,None,1,3,4,1
+,26 TG9 S1 Loc,438.425,433.425,Digital,High,None,None,1,3,5,1
+,26 TG13 WWE,438.425,433.425,Digital,High,None,None,1,3,6,1
+,26 TG113 UA E1,438.425,433.425,Digital,High,None,None,1,3,9,1
+,26 TG123 UA E2,438.425,433.425,Digital,High,None,None,1,3,10,1
+,26 TG133 +USA,438.425,433.425,Digital,High,None,None,1,3,11,1
+,26 TG143 +UK,438.425,433.425,Digital,High,None,None,1,3,12,1
+,26 TG153 SthPac,438.425,433.425,Digital,High,None,None,1,3,13,1
+,26 TG505 AU,438.425,433.425,Digital,High,None,None,1,3,15,1
+,26 TG3800 AU+,438.425,433.425,Digital,High,None,None,1,3,17,2
+,26 TG3801 ACT,438.425,433.425,Digital,High,None,None,1,3,18,2
+,26 TG3802 NSW,438.425,433.425,Digital,High,None,None,1,3,19,2
+,26 TG3803 Vic,438.425,433.425,Digital,High,None,None,1,3,20,2
+,26 TG3804 Qld,438.425,433.425,Digital,High,None,None,1,3,21,2
+,26 TG3805 SA,438.425,433.425,Digital,High,None,None,1,3,22,2
+,26 TG3806 WA,438.425,433.425,Digital,High,None,None,1,3,23,2
+,26 TG3807 Tas,438.425,433.425,Digital,High,None,None,1,3,24,2
+,26 Ref Discnct,438.425,433.425,Digital,High,None,None,1,3,26,1
+,26 Rep Status,438.425,433.425,Digital,High,None,None,1,3,27,1
+,27 VK2RHT Scan,438.35,432.95,Digital,High,None,None,1,3,1,1
+,27 TG1 WW,438.35,432.95,Digital,High,None,None,1,3,2,1
+,27 TG5 VK Bcast,438.35,432.95,Digital,High,None,None,1,3,3,1
+,27 TG8 S1,438.35,432.95,Digital,High,None,None,1,3,4,1
+,27 TG9 S1 Loc,438.35,432.95,Digital,High,None,None,1,3,5,1
+,27 TG13 WWE,438.35,432.95,Digital,High,None,None,1,3,6,1
+,27 TG113 UA E1,438.35,432.95,Digital,High,None,None,1,3,9,1
+,27 TG123 UA E2,438.35,432.95,Digital,High,None,None,1,3,10,1
+,27 TG133 +USA,438.35,432.95,Digital,High,None,None,1,3,11,1
+,27 TG143 +UK,438.35,432.95,Digital,High,None,None,1,3,12,1
+,27 TG153 SthPac,438.35,432.95,Digital,High,None,None,1,3,13,1
+,27 TG505 AU,438.35,432.95,Digital,High,None,None,1,3,15,1
+,27 TG3800 AU+,438.35,432.95,Digital,High,None,None,1,3,17,2
+,27 TG3801 ACT,438.35,432.95,Digital,High,None,None,1,3,18,2
+,27 TG3802 NSW,438.35,432.95,Digital,High,None,None,1,3,19,2
+,27 TG3803 Vic,438.35,432.95,Digital,High,None,None,1,3,20,2
+,27 TG3804 Qld,438.35,432.95,Digital,High,None,None,1,3,21,2
+,27 TG3805 SA,438.35,432.95,Digital,High,None,None,1,3,22,2
+,27 TG3806 WA,438.35,432.95,Digital,High,None,None,1,3,23,2
+,27 TG3807 Tas,438.35,432.95,Digital,High,None,None,1,3,24,2
+,27 Ref Discnct,438.35,432.95,Digital,High,None,None,1,3,26,1
+,27 Rep Status,438.35,432.95,Digital,High,None,None,1,3,27,1
+,28 VK2RAO Scan,438.725,433.725,Digital,High,None,None,1,3,1,1
+,28 TG1 WW,438.725,433.725,Digital,High,None,None,1,3,2,1
+,28 TG5 VK Bcast,438.725,433.725,Digital,High,None,None,1,3,3,1
+,28 TG8 S1,438.725,433.725,Digital,High,None,None,1,3,4,1
+,28 TG9 S1 Loc,438.725,433.725,Digital,High,None,None,1,3,5,1
+,28 TG13 WWE,438.725,433.725,Digital,High,None,None,1,3,6,1
+,28 TG113 UA E1,438.725,433.725,Digital,High,None,None,1,3,9,1
+,28 TG123 UA E2,438.725,433.725,Digital,High,None,None,1,3,10,1
+,28 TG133 +USA,438.725,433.725,Digital,High,None,None,1,3,11,1
+,28 TG143 +UK,438.725,433.725,Digital,High,None,None,1,3,12,1
+,28 TG153 SthPac,438.725,433.725,Digital,High,None,None,1,3,13,1
+,28 TG505 AU,438.725,433.725,Digital,High,None,None,1,3,15,1
+,28 TG3800 AU+,438.725,433.725,Digital,High,None,None,1,3,17,2
+,28 TG3801 ACT,438.725,433.725,Digital,High,None,None,1,3,18,2
+,28 TG3802 NSW,438.725,433.725,Digital,High,None,None,1,3,19,2
+,28 TG3803 Vic,438.725,433.725,Digital,High,None,None,1,3,20,2
+,28 TG3804 Qld,438.725,433.725,Digital,High,None,None,1,3,21,2
+,28 TG3805 SA,438.725,433.725,Digital,High,None,None,1,3,22,2
+,28 TG3806 WA,438.725,433.725,Digital,High,None,None,1,3,23,2
+,28 TG3807 Tas,438.725,433.725,Digital,High,None,None,1,3,24,2
+,28 Ref Discnct,438.725,433.725,Digital,High,None,None,1,3,26,1
+,28 Rep Status,438.725,433.725,Digital,High,None,None,1,3,27,1
+,29 VK2RCV Scan,439.9125,434.9125,Digital,High,None,None,1,3,1,1
+,29 TG1 WW,439.9125,434.9125,Digital,High,None,None,1,3,2,1
+,29 TG5 VK Bcast,439.9125,434.9125,Digital,High,None,None,1,3,3,1
+,29 TG8 S1,439.9125,434.9125,Digital,High,None,None,1,3,4,1
+,29 TG9 S1 Loc,439.9125,434.9125,Digital,High,None,None,1,3,5,1
+,29 TG13 WWE,439.9125,434.9125,Digital,High,None,None,1,3,6,1
+,29 TG113 UA E1,439.9125,434.9125,Digital,High,None,None,1,3,9,1
+,29 TG123 UA E2,439.9125,434.9125,Digital,High,None,None,1,3,10,1
+,29 TG133 +USA,439.9125,434.9125,Digital,High,None,None,1,3,11,1
+,29 TG143 +UK,439.9125,434.9125,Digital,High,None,None,1,3,12,1
+,29 TG153 SthPac,439.9125,434.9125,Digital,High,None,None,1,3,13,1
+,29 TG505 AU,439.9125,434.9125,Digital,High,None,None,1,3,15,1
+,29 TG3800 AU+,439.9125,434.9125,Digital,High,None,None,1,3,17,2
+,29 TG3801 ACT,439.9125,434.9125,Digital,High,None,None,1,3,18,2
+,29 TG3802 NSW,439.9125,434.9125,Digital,High,None,None,1,3,19,2
+,29 TG3803 Vic,439.9125,434.9125,Digital,High,None,None,1,3,20,2
+,29 TG3804 Qld,439.9125,434.9125,Digital,High,None,None,1,3,21,2
+,29 TG3805 SA,439.9125,434.9125,Digital,High,None,None,1,3,22,2
+,29 TG3806 WA,439.9125,434.9125,Digital,High,None,None,1,3,23,2
+,29 TG3807 Tas,439.9125,434.9125,Digital,High,None,None,1,3,24,2
+,29 Ref Discnct,439.9125,434.9125,Digital,High,None,None,1,3,26,1
+,29 Rep Status,439.9125,434.9125,Digital,High,None,None,1,3,27,1
+,30 VK3RSU Scan,438.1,432.7,Digital,High,None,None,1,3,1,1
+,30 TG1 WW,438.1,432.7,Digital,High,None,None,1,3,2,1
+,30 TG5 VK Bcast,438.1,432.7,Digital,High,None,None,1,3,3,1
+,30 TG8 S1,438.1,432.7,Digital,High,None,None,1,3,4,1
+,30 TG9 S1 Loc,438.1,432.7,Digital,High,None,None,1,3,5,1
+,30 TG13 WWE,438.1,432.7,Digital,High,None,None,1,3,6,1
+,30 TG113 UA E1,438.1,432.7,Digital,High,None,None,1,3,9,1
+,30 TG123 UA E2,438.1,432.7,Digital,High,None,None,1,3,10,1
+,30 TG133 +USA,438.1,432.7,Digital,High,None,None,1,3,11,1
+,30 TG143 +UK,438.1,432.7,Digital,High,None,None,1,3,12,1
+,30 TG153 SthPac,438.1,432.7,Digital,High,None,None,1,3,13,1
+,30 TG505 AU,438.1,432.7,Digital,High,None,None,1,3,15,1
+,30 TG3800 AU+,438.1,432.7,Digital,High,None,None,1,3,17,2
+,30 TG3801 ACT,438.1,432.7,Digital,High,None,None,1,3,18,2
+,30 TG3802 NSW,438.1,432.7,Digital,High,None,None,1,3,19,2
+,30 TG3803 Vic,438.1,432.7,Digital,High,None,None,1,3,20,2
+,30 TG3804 Qld,438.1,432.7,Digital,High,None,None,1,3,21,2
+,30 TG3805 SA,438.1,432.7,Digital,High,None,None,1,3,22,2
+,30 TG3806 WA,438.1,432.7,Digital,High,None,None,1,3,23,2
+,30 TG3807 Tas,438.1,432.7,Digital,High,None,None,1,3,24,2
+,30 Ref Discnct,438.1,432.7,Digital,High,None,None,1,3,26,1
+,30 Rep Status,438.1,432.7,Digital,High,None,None,1,3,27,1
+,31 VK3RTE Scan,438.9125,431.9125,Digital,High,None,None,1,3,1,1
+,31 TG1 WW,438.9125,431.9125,Digital,High,None,None,1,3,2,1
+,31 TG5 VK Bcast,438.9125,431.9125,Digital,High,None,None,1,3,3,1
+,31 TG8 S1,438.9125,431.9125,Digital,High,None,None,1,3,4,1
+,31 TG9 S1 Loc,438.9125,431.9125,Digital,High,None,None,1,3,5,1
+,31 TG13 WWE,438.9125,431.9125,Digital,High,None,None,1,3,6,1
+,31 TG113 UA E1,438.9125,431.9125,Digital,High,None,None,1,3,9,1
+,31 TG123 UA E2,438.9125,431.9125,Digital,High,None,None,1,3,10,1
+,31 TG133 +USA,438.9125,431.9125,Digital,High,None,None,1,3,11,1
+,31 TG143 +UK,438.9125,431.9125,Digital,High,None,None,1,3,12,1
+,31 TG153 SthPac,438.9125,431.9125,Digital,High,None,None,1,3,13,1
+,31 TG505 AU,438.9125,431.9125,Digital,High,None,None,1,3,15,1
+,31 TG3800 AU+,438.9125,431.9125,Digital,High,None,None,1,3,17,2
+,31 TG3801 ACT,438.9125,431.9125,Digital,High,None,None,1,3,18,2
+,31 TG3802 NSW,438.9125,431.9125,Digital,High,None,None,1,3,19,2
+,31 TG3803 Vic,438.9125,431.9125,Digital,High,None,None,1,3,20,2
+,31 TG3804 Qld,438.9125,431.9125,Digital,High,None,None,1,3,21,2
+,31 TG3805 SA,438.9125,431.9125,Digital,High,None,None,1,3,22,2
+,31 TG3806 WA,438.9125,431.9125,Digital,High,None,None,1,3,23,2
+,31 TG3807 Tas,438.9125,431.9125,Digital,High,None,None,1,3,24,2
+,31 Ref Discnct,438.9125,431.9125,Digital,High,None,None,1,3,26,1
+,31 Rep Status,438.9125,431.9125,Digital,High,None,None,1,3,27,1
+,32 VK3RZU Scan,439.675,434.675,Digital,High,None,None,1,3,1,1
+,32 TG1 WW,439.675,434.675,Digital,High,None,None,1,3,2,1
+,32 TG5 VK Bcast,439.675,434.675,Digital,High,None,None,1,3,3,1
+,32 TG8 S1,439.675,434.675,Digital,High,None,None,1,3,4,1
+,32 TG9 S1 Loc,439.675,434.675,Digital,High,None,None,1,3,5,1
+,32 TG13 WWE,439.675,434.675,Digital,High,None,None,1,3,6,1
+,32 TG113 UA E1,439.675,434.675,Digital,High,None,None,1,3,9,1
+,32 TG123 UA E2,439.675,434.675,Digital,High,None,None,1,3,10,1
+,32 TG133 +USA,439.675,434.675,Digital,High,None,None,1,3,11,1
+,32 TG143 +UK,439.675,434.675,Digital,High,None,None,1,3,12,1
+,32 TG153 SthPac,439.675,434.675,Digital,High,None,None,1,3,13,1
+,32 TG505 AU,439.675,434.675,Digital,High,None,None,1,3,15,1
+,32 TG3800 AU+,439.675,434.675,Digital,High,None,None,1,3,17,2
+,32 TG3801 ACT,439.675,434.675,Digital,High,None,None,1,3,18,2
+,32 TG3802 NSW,439.675,434.675,Digital,High,None,None,1,3,19,2
+,32 TG3803 Vic,439.675,434.675,Digital,High,None,None,1,3,20,2
+,32 TG3804 Qld,439.675,434.675,Digital,High,None,None,1,3,21,2
+,32 TG3805 SA,439.675,434.675,Digital,High,None,None,1,3,22,2
+,32 TG3806 WA,439.675,434.675,Digital,High,None,None,1,3,23,2
+,32 TG3807 Tas,439.675,434.675,Digital,High,None,None,1,3,24,2
+,32 Ref Discnct,439.675,434.675,Digital,High,None,None,1,3,26,1
+,32 Rep Status,439.675,434.675,Digital,High,None,None,1,3,27,1
+,33 VK3RMC Scan,438.375,434.375,Digital,High,None,None,1,3,1,1
+,33 TG1 WW,438.375,434.375,Digital,High,None,None,1,3,2,1
+,33 TG5 VK Bcast,438.375,434.375,Digital,High,None,None,1,3,3,1
+,33 TG8 S1,438.375,434.375,Digital,High,None,None,1,3,4,1
+,33 TG9 S1 Loc,438.375,434.375,Digital,High,None,None,1,3,5,1
+,33 TG13 WWE,438.375,434.375,Digital,High,None,None,1,3,6,1
+,33 TG113 UA E1,438.375,434.375,Digital,High,None,None,1,3,9,1
+,33 TG123 UA E2,438.375,434.375,Digital,High,None,None,1,3,10,1
+,33 TG133 +USA,438.375,434.375,Digital,High,None,None,1,3,11,1
+,33 TG143 +UK,438.375,434.375,Digital,High,None,None,1,3,12,1
+,33 TG153 SthPac,438.375,434.375,Digital,High,None,None,1,3,13,1
+,33 TG505 AU,438.375,434.375,Digital,High,None,None,1,3,15,1
+,33 TG3800 AU+,438.375,434.375,Digital,High,None,None,1,3,17,2
+,33 TG3801 ACT,438.375,434.375,Digital,High,None,None,1,3,18,2
+,33 TG3802 NSW,438.375,434.375,Digital,High,None,None,1,3,19,2
+,33 TG3803 Vic,438.375,434.375,Digital,High,None,None,1,3,20,2
+,33 TG3804 Qld,438.375,434.375,Digital,High,None,None,1,3,21,2
+,33 TG3805 SA,438.375,434.375,Digital,High,None,None,1,3,22,2
+,33 TG3806 WA,438.375,434.375,Digital,High,None,None,1,3,23,2
+,33 TG3807 Tas,438.375,434.375,Digital,High,None,None,1,3,24,2
+,33 Ref Discnct,438.375,434.375,Digital,High,None,None,1,3,26,1
+,33 Rep Status,438.375,434.375,Digital,High,None,None,1,3,27,1
+,34 VK3RMM Scan,439.825,434.825,Digital,High,None,None,1,3,1,1
+,34 TG1 WW,439.825,434.825,Digital,High,None,None,1,3,2,1
+,34 TG5 VK Bcast,439.825,434.825,Digital,High,None,None,1,3,3,1
+,34 TG8 S1,439.825,434.825,Digital,High,None,None,1,3,4,1
+,34 TG9 S1 Loc,439.825,434.825,Digital,High,None,None,1,3,5,1
+,34 TG13 WWE,439.825,434.825,Digital,High,None,None,1,3,6,1
+,34 TG113 UA E1,439.825,434.825,Digital,High,None,None,1,3,9,1
+,34 TG123 UA E2,439.825,434.825,Digital,High,None,None,1,3,10,1
+,34 TG133 +USA,439.825,434.825,Digital,High,None,None,1,3,11,1
+,34 TG143 +UK,439.825,434.825,Digital,High,None,None,1,3,12,1
+,34 TG153 SthPac,439.825,434.825,Digital,High,None,None,1,3,13,1
+,34 TG505 AU,439.825,434.825,Digital,High,None,None,1,3,15,1
+,34 TG3800 AU+,439.825,434.825,Digital,High,None,None,1,3,17,2
+,34 TG3801 ACT,439.825,434.825,Digital,High,None,None,1,3,18,2
+,34 TG3802 NSW,439.825,434.825,Digital,High,None,None,1,3,19,2
+,34 TG3803 Vic,439.825,434.825,Digital,High,None,None,1,3,20,2
+,34 TG3804 Qld,439.825,434.825,Digital,High,None,None,1,3,21,2
+,34 TG3805 SA,439.825,434.825,Digital,High,None,None,1,3,22,2
+,34 TG3806 WA,439.825,434.825,Digital,High,None,None,1,3,23,2
+,34 TG3807 Tas,439.825,434.825,Digital,High,None,None,1,3,24,2
+,34 Ref Discnct,439.825,434.825,Digital,High,None,None,1,3,26,1
+,34 Rep Status,439.825,434.825,Digital,High,None,None,1,3,27,1
+,35 VK3RPT Scan,439.525,434.525,Digital,High,None,None,1,3,1,1
+,35 TG1 WW,439.525,434.525,Digital,High,None,None,1,3,2,1
+,35 TG5 VK Bcast,439.525,434.525,Digital,High,None,None,1,3,3,1
+,35 TG8 S1,439.525,434.525,Digital,High,None,None,1,3,4,1
+,35 TG9 S1 Loc,439.525,434.525,Digital,High,None,None,1,3,5,1
+,35 TG13 WWE,439.525,434.525,Digital,High,None,None,1,3,6,1
+,35 TG113 UA E1,439.525,434.525,Digital,High,None,None,1,3,9,1
+,35 TG123 UA E2,439.525,434.525,Digital,High,None,None,1,3,10,1
+,35 TG133 +USA,439.525,434.525,Digital,High,None,None,1,3,11,1
+,35 TG143 +UK,439.525,434.525,Digital,High,None,None,1,3,12,1
+,35 TG153 SthPac,439.525,434.525,Digital,High,None,None,1,3,13,1
+,35 TG505 AU,439.525,434.525,Digital,High,None,None,1,3,15,1
+,35 TG3800 AU+,439.525,434.525,Digital,High,None,None,1,3,17,2
+,35 TG3801 ACT,439.525,434.525,Digital,High,None,None,1,3,18,2
+,35 TG3802 NSW,439.525,434.525,Digital,High,None,None,1,3,19,2
+,35 TG3803 Vic,439.525,434.525,Digital,High,None,None,1,3,20,2
+,35 TG3804 Qld,439.525,434.525,Digital,High,None,None,1,3,21,2
+,35 TG3805 SA,439.525,434.525,Digital,High,None,None,1,3,22,2
+,35 TG3806 WA,439.525,434.525,Digital,High,None,None,1,3,23,2
+,35 TG3807 Tas,439.525,434.525,Digital,High,None,None,1,3,24,2
+,35 Ref Discnct,439.525,434.525,Digital,High,None,None,1,3,26,1
+,35 Rep Status,439.525,434.525,Digital,High,None,None,1,3,27,1
+,36 VK3RGL Scan,439.5,434.5,Digital,High,None,None,1,3,1,1
+,36 TG1 WW,439.5,434.5,Digital,High,None,None,1,3,2,1
+,36 TG5 VK Bcast,439.5,434.5,Digital,High,None,None,1,3,3,1
+,36 TG8 S1,439.5,434.5,Digital,High,None,None,1,3,4,1
+,36 TG9 S1 Loc,439.5,434.5,Digital,High,None,None,1,3,5,1
+,36 TG13 WWE,439.5,434.5,Digital,High,None,None,1,3,6,1
+,36 TG113 UA E1,439.5,434.5,Digital,High,None,None,1,3,9,1
+,36 TG123 UA E2,439.5,434.5,Digital,High,None,None,1,3,10,1
+,36 TG133 +USA,439.5,434.5,Digital,High,None,None,1,3,11,1
+,36 TG143 +UK,439.5,434.5,Digital,High,None,None,1,3,12,1
+,36 TG153 SthPac,439.5,434.5,Digital,High,None,None,1,3,13,1
+,36 TG505 AU,439.5,434.5,Digital,High,None,None,1,3,15,1
+,36 TG3800 AU+,439.5,434.5,Digital,High,None,None,1,3,17,2
+,36 TG3801 ACT,439.5,434.5,Digital,High,None,None,1,3,18,2
+,36 TG3802 NSW,439.5,434.5,Digital,High,None,None,1,3,19,2
+,36 TG3803 Vic,439.5,434.5,Digital,High,None,None,1,3,20,2
+,36 TG3804 Qld,439.5,434.5,Digital,High,None,None,1,3,21,2
+,36 TG3805 SA,439.5,434.5,Digital,High,None,None,1,3,22,2
+,36 TG3806 WA,439.5,434.5,Digital,High,None,None,1,3,23,2
+,36 TG3807 Tas,439.5,434.5,Digital,High,None,None,1,3,24,2
+,36 Ref Discnct,439.5,434.5,Digital,High,None,None,1,3,26,1
+,36 Rep Status,439.5,434.5,Digital,High,None,None,1,3,27,1
+,37 VK3RPS Scan,439.725,434.725,Digital,High,None,None,1,3,1,1
+,37 TG1 WW,439.725,434.725,Digital,High,None,None,1,3,2,1
+,37 TG5 VK Bcast,439.725,434.725,Digital,High,None,None,1,3,3,1
+,37 TG8 S1,439.725,434.725,Digital,High,None,None,1,3,4,1
+,37 TG9 S1 Loc,439.725,434.725,Digital,High,None,None,1,3,5,1
+,37 TG13 WWE,439.725,434.725,Digital,High,None,None,1,3,6,1
+,37 TG113 UA E1,439.725,434.725,Digital,High,None,None,1,3,9,1
+,37 TG123 UA E2,439.725,434.725,Digital,High,None,None,1,3,10,1
+,37 TG133 +USA,439.725,434.725,Digital,High,None,None,1,3,11,1
+,37 TG143 +UK,439.725,434.725,Digital,High,None,None,1,3,12,1
+,37 TG153 SthPac,439.725,434.725,Digital,High,None,None,1,3,13,1
+,37 TG505 AU,439.725,434.725,Digital,High,None,None,1,3,15,1
+,37 TG3800 AU+,439.725,434.725,Digital,High,None,None,1,3,17,2
+,37 TG3801 ACT,439.725,434.725,Digital,High,None,None,1,3,18,2
+,37 TG3802 NSW,439.725,434.725,Digital,High,None,None,1,3,19,2
+,37 TG3803 Vic,439.725,434.725,Digital,High,None,None,1,3,20,2
+,37 TG3804 Qld,439.725,434.725,Digital,High,None,None,1,3,21,2
+,37 TG3805 SA,439.725,434.725,Digital,High,None,None,1,3,22,2
+,37 TG3806 WA,439.725,434.725,Digital,High,None,None,1,3,23,2
+,37 TG3807 Tas,439.725,434.725,Digital,High,None,None,1,3,24,2
+,37 Ref Discnct,439.725,434.725,Digital,High,None,None,1,3,26,1
+,37 Rep Status,439.725,434.725,Digital,High,None,None,1,3,27,1
+,38 VK3RBQ Scan,147.2,147.8,Digital,High,None,None,1,3,1,1
+,30 TG1 WW,147.2,147.8,Digital,High,None,None,1,3,2,1
+,38 TG5 VK Bcast,147.2,147.8,Digital,High,None,None,1,3,3,1
+,38 TG8 S1,147.2,147.8,Digital,High,None,None,1,3,4,1
+,38 TG9 S1 Loc,147.2,147.8,Digital,High,None,None,1,3,5,1
+,38 TG13 WWE,147.2,147.8,Digital,High,None,None,1,3,6,1
+,38 TG113 UA E1,147.2,147.8,Digital,High,None,None,1,3,9,1
+,38 TG123 UA E2,147.2,147.8,Digital,High,None,None,1,3,10,1
+,38 TG133 +USA,147.2,147.8,Digital,High,None,None,1,3,11,1
+,38 TG143 +UK,147.2,147.8,Digital,High,None,None,1,3,12,1
+,38 TG153 SthPac,147.2,147.8,Digital,High,None,None,1,3,13,1
+,38 TG505 AU,147.2,147.8,Digital,High,None,None,1,3,15,1
+,38 TG3800 AU+,147.2,147.8,Digital,High,None,None,1,3,17,2
+,38 TG3801 ACT,147.2,147.8,Digital,High,None,None,1,3,18,2
+,38 TG3802 NSW,147.2,147.8,Digital,High,None,None,1,3,19,2
+,38 TG3803 Vic,147.2,147.8,Digital,High,None,None,1,3,20,2
+,38 TG3804 Qld,147.2,147.8,Digital,High,None,None,1,3,21,2
+,38 TG3805 SA,147.2,147.8,Digital,High,None,None,1,3,22,2
+,38 TG3806 WA,147.2,147.8,Digital,High,None,None,1,3,23,2
+,38 TG3807 Tas,147.2,147.8,Digital,High,None,None,1,3,24,2
+,38 Ref Discnct,147.2,147.8,Digital,High,None,None,1,3,26,1
+,38 Rep Status,147.2,147.8,Digital,High,None,None,1,3,27,1
+,40 VK4RGX Scan,438.8125,431.8125,Digital,High,None,None,1,3,1,1
+,40 TG1 WW,438.8125,431.8125,Digital,High,None,None,1,3,2,1
+,40 TG5 VK Bcast,438.8125,431.8125,Digital,High,None,None,1,3,3,1
+,40 TG8 S1,438.8125,431.8125,Digital,High,None,None,1,3,4,1
+,40 TG9 S1 Loc,438.8125,431.8125,Digital,High,None,None,1,3,5,1
+,40 TG13 WWE,438.8125,431.8125,Digital,High,None,None,1,3,6,1
+,40 TG113 UA E1,438.8125,431.8125,Digital,High,None,None,1,3,9,1
+,40 TG123 UA E2,438.8125,431.8125,Digital,High,None,None,1,3,10,1
+,40 TG133 +USA,438.8125,431.8125,Digital,High,None,None,1,3,11,1
+,40 TG143 +UK,438.8125,431.8125,Digital,High,None,None,1,3,12,1
+,40 TG153 SthPac,438.8125,431.8125,Digital,High,None,None,1,3,13,1
+,40 TG505 AU,438.8125,431.8125,Digital,High,None,None,1,3,15,1
+,40 TG3800 AU+,438.8125,431.8125,Digital,High,None,None,1,3,17,2
+,40 TG3801 ACT,438.8125,431.8125,Digital,High,None,None,1,3,18,2
+,40 TG3802 NSW,438.8125,431.8125,Digital,High,None,None,1,3,19,2
+,40 TG3803 Vic,438.8125,431.8125,Digital,High,None,None,1,3,20,2
+,40 TG3804 Qld,438.8125,431.8125,Digital,High,None,None,1,3,21,2
+,40 TG3805 SA,438.8125,431.8125,Digital,High,None,None,1,3,22,2
+,40 TG3806 WA,438.8125,431.8125,Digital,High,None,None,1,3,23,2
+,40 TG3807 Tas,438.8125,431.8125,Digital,High,None,None,1,3,24,2
+,40 Ref Discnct,438.8125,431.8125,Digital,High,None,None,1,3,26,1
+,40 Rep Status,438.8125,431.8125,Digital,High,None,None,1,3,27,1
+,41 VK4RMC Scan,439.975,434.975,Digital,High,None,None,1,3,1,1
+,41 TG1 WW,439.975,434.975,Digital,High,None,None,1,3,2,1
+,41 TG5 VK Bcast,439.975,434.975,Digital,High,None,None,1,3,3,1
+,41 TG8 S1,439.975,434.975,Digital,High,None,None,1,3,4,1
+,41 TG9 S1 Loc,439.975,434.975,Digital,High,None,None,1,3,5,1
+,41 TG13 WWE,439.975,434.975,Digital,High,None,None,1,3,6,1
+,41 TG113 UA E1,439.975,434.975,Digital,High,None,None,1,3,9,1
+,41 TG123 UA E2,439.975,434.975,Digital,High,None,None,1,3,10,1
+,41 TG133 +USA,439.975,434.975,Digital,High,None,None,1,3,11,1
+,41 TG143 +UK,439.975,434.975,Digital,High,None,None,1,3,12,1
+,41 TG153 SthPac,439.975,434.975,Digital,High,None,None,1,3,13,1
+,41 TG505 AU,439.975,434.975,Digital,High,None,None,1,3,15,1
+,41 TG3800 AU+,439.975,434.975,Digital,High,None,None,1,3,17,2
+,41 TG3801 ACT,439.975,434.975,Digital,High,None,None,1,3,18,2
+,41 TG3802 NSW,439.975,434.975,Digital,High,None,None,1,3,19,2
+,41 TG3803 Vic,439.975,434.975,Digital,High,None,None,1,3,20,2
+,41 TG3804 Qld,439.975,434.975,Digital,High,None,None,1,3,21,2
+,41 TG3805 SA,439.975,434.975,Digital,High,None,None,1,3,22,2
+,41 TG3806 WA,439.975,434.975,Digital,High,None,None,1,3,23,2
+,41 TG3807 Tas,439.975,434.975,Digital,High,None,None,1,3,24,2
+,41 Ref Discnct,439.975,434.975,Digital,High,None,None,1,3,26,1
+,41 Rep Status,439.975,434.975,Digital,High,None,None,1,3,27,1
+,42 VK4RTQ Scan,439.4875,434.4875,Digital,High,None,None,1,3,1,1
+,42 TG1 WW,439.4875,434.4875,Digital,High,None,None,1,3,2,1
+,42 TG5 VK Bcast,439.4875,434.4875,Digital,High,None,None,1,3,3,1
+,42 TG8 S1,439.4875,434.4875,Digital,High,None,None,1,3,4,1
+,42 TG9 S1 Loc,439.4875,434.4875,Digital,High,None,None,1,3,5,1
+,42 TG13 WWE,439.4875,434.4875,Digital,High,None,None,1,3,6,1
+,42 TG113 UA E1,439.4875,434.4875,Digital,High,None,None,1,3,9,1
+,42 TG123 UA E2,439.4875,434.4875,Digital,High,None,None,1,3,10,1
+,42 TG133 +USA,439.4875,434.4875,Digital,High,None,None,1,3,11,1
+,42 TG143 +UK,439.4875,434.4875,Digital,High,None,None,1,3,12,1
+,42 TG153 SthPac,439.4875,434.4875,Digital,High,None,None,1,3,13,1
+,42 TG505 AU,439.4875,434.4875,Digital,High,None,None,1,3,15,1
+,42 TG3800 AU+,439.4875,434.4875,Digital,High,None,None,1,3,17,2
+,42 TG3801 ACT,439.4875,434.4875,Digital,High,None,None,1,3,18,2
+,42 TG3802 NSW,439.4875,434.4875,Digital,High,None,None,1,3,19,2
+,42 TG3803 Vic,439.4875,434.4875,Digital,High,None,None,1,3,20,2
+,42 TG3804 Qld,439.4875,434.4875,Digital,High,None,None,1,3,21,2
+,42 TG3805 SA,439.4875,434.4875,Digital,High,None,None,1,3,22,2
+,42 TG3806 WA,439.4875,434.4875,Digital,High,None,None,1,3,23,2
+,42 TG3807 Tas,439.4875,434.4875,Digital,High,None,None,1,3,24,2
+,42 Ref Discnct,439.4875,434.4875,Digital,High,None,None,1,3,26,1
+,42 Rep Status,439.4875,434.4875,Digital,High,None,None,1,3,27,1
+,43 VK4RDU Scan,438.025,431.025,Digital,High,None,None,1,3,1,1
+,43 TG1 WW,438.025,431.025,Digital,High,None,None,1,3,2,1
+,43 TG5 VK Bcast,438.025,431.025,Digital,High,None,None,1,3,3,1
+,43 TG8 S1,438.025,431.025,Digital,High,None,None,1,3,4,1
+,43 TG9 S1 Loc,438.025,431.025,Digital,High,None,None,1,3,5,1
+,43 TG13 WWE,438.025,431.025,Digital,High,None,None,1,3,6,1
+,43 TG113 UA E1,438.025,431.025,Digital,High,None,None,1,3,9,1
+,43 TG123 UA E2,438.025,431.025,Digital,High,None,None,1,3,10,1
+,43 TG133 +USA,438.025,431.025,Digital,High,None,None,1,3,11,1
+,43 TG143 +UK,438.025,431.025,Digital,High,None,None,1,3,12,1
+,43 TG153 SthPac,438.025,431.025,Digital,High,None,None,1,3,13,1
+,43 TG505 AU,438.025,431.025,Digital,High,None,None,1,3,15,1
+,43 TG3800 AU+,438.025,431.025,Digital,High,None,None,1,3,17,2
+,43 TG3801 ACT,438.025,431.025,Digital,High,None,None,1,3,18,2
+,43 TG3802 NSW,438.025,431.025,Digital,High,None,None,1,3,19,2
+,43 TG3803 Vic,438.025,431.025,Digital,High,None,None,1,3,20,2
+,43 TG3804 Qld,438.025,431.025,Digital,High,None,None,1,3,21,2
+,43 TG3805 SA,438.025,431.025,Digital,High,None,None,1,3,22,2
+,43 TG3806 WA,438.025,431.025,Digital,High,None,None,1,3,23,2
+,43 TG3807 Tas,438.025,431.025,Digital,High,None,None,1,3,24,2
+,43 Ref Discnct,438.025,431.025,Digital,High,None,None,1,3,26,1
+,43 Rep Status,438.025,431.025,Digital,High,None,None,1,3,27,1
+,44 VK4REG Scan,439.9875,434.9875,Digital,High,None,None,1,3,1,1
+,44 TG1 WW,439.9875,434.9875,Digital,High,None,None,1,3,2,1
+,44 TG5 VK Bcast,439.9875,434.9875,Digital,High,None,None,1,3,3,1
+,44 TG8 S1,439.9875,434.9875,Digital,High,None,None,1,3,4,1
+,44 TG9 S1 Loc,439.9875,434.9875,Digital,High,None,None,1,3,5,1
+,44 TG13 WWE,439.9875,434.9875,Digital,High,None,None,1,3,6,1
+,44 TG113 UA E1,439.9875,434.9875,Digital,High,None,None,1,3,9,1
+,44 TG123 UA E2,439.9875,434.9875,Digital,High,None,None,1,3,10,1
+,44 TG133 +USA,439.9875,434.9875,Digital,High,None,None,1,3,11,1
+,44 TG143 +UK,439.9875,434.9875,Digital,High,None,None,1,3,12,1
+,44 TG153 SthPac,439.9875,434.9875,Digital,High,None,None,1,3,13,1
+,44 TG505 AU,439.9875,434.9875,Digital,High,None,None,1,3,15,1
+,44 TG3800 AU+,439.9875,434.9875,Digital,High,None,None,1,3,17,2
+,44 TG3801 ACT,439.9875,434.9875,Digital,High,None,None,1,3,18,2
+,44 TG3802 NSW,439.9875,434.9875,Digital,High,None,None,1,3,19,2
+,44 TG3803 Vic,439.9875,434.9875,Digital,High,None,None,1,3,20,2
+,44 TG3804 Qld,439.9875,434.9875,Digital,High,None,None,1,3,21,2
+,44 TG3805 SA,439.9875,434.9875,Digital,High,None,None,1,3,22,2
+,44 TG3806 WA,439.9875,434.9875,Digital,High,None,None,1,3,23,2
+,44 TG3807 Tas,439.9875,434.9875,Digital,High,None,None,1,3,24,2
+,44 Ref Discnct,439.9875,434.9875,Digital,High,None,None,1,3,26,1
+,44 Rep Status,439.9875,434.9875,Digital,High,None,None,1,3,27,1
+,45 VK4RBX Scan,438.8375,431.8375,Digital,High,None,None,1,3,1,1
+,45 TG1 WW,438.8375,431.8375,Digital,High,None,None,1,3,2,1
+,45 TG5 VK Bcast,438.8375,431.8375,Digital,High,None,None,1,3,3,1
+,45 TG8 S1,438.8375,431.8375,Digital,High,None,None,1,3,4,1
+,45 TG9 S1 Loc,438.8375,431.8375,Digital,High,None,None,1,3,5,1
+,45 TG13 WWE,438.8375,431.8375,Digital,High,None,None,1,3,6,1
+,45 TG113 UA E1,438.8375,431.8375,Digital,High,None,None,1,3,9,1
+,45 TG123 UA E2,438.8375,431.8375,Digital,High,None,None,1,3,10,1
+,45 TG133 +USA,438.8375,431.8375,Digital,High,None,None,1,3,11,1
+,45 TG143 +UK,438.8375,431.8375,Digital,High,None,None,1,3,12,1
+,45 TG153 SthPac,438.8375,431.8375,Digital,High,None,None,1,3,13,1
+,45 TG505 AU,438.8375,431.8375,Digital,High,None,None,1,3,15,1
+,45 TG3800 AU+,438.8375,431.8375,Digital,High,None,None,1,3,17,2
+,45 TG3801 ACT,438.8375,431.8375,Digital,High,None,None,1,3,18,2
+,45 TG3802 NSW,438.8375,431.8375,Digital,High,None,None,1,3,19,2
+,45 TG3803 Vic,438.8375,431.8375,Digital,High,None,None,1,3,20,2
+,45 TG3804 Qld,438.8375,431.8375,Digital,High,None,None,1,3,21,2
+,45 TG3805 SA,438.8375,431.8375,Digital,High,None,None,1,3,22,2
+,45 TG3806 WA,438.8375,431.8375,Digital,High,None,None,1,3,23,2
+,45 TG3807 Tas,438.8375,431.8375,Digital,High,None,None,1,3,24,2
+,45 Ref Discnct,438.8375,431.8375,Digital,High,None,None,1,3,26,1
+,45 Rep Status,438.8375,431.8375,Digital,High,None,None,1,3,27,1
+,46 VK4RNX Scan,438.8875,431.8875,Digital,High,None,None,1,3,1,1
+,46 TG1 WW,438.8875,431.8875,Digital,High,None,None,1,3,2,1
+,46 TG5 VK Bcast,438.8875,431.8875,Digital,High,None,None,1,3,3,1
+,46 TG8 S1,438.8875,431.8875,Digital,High,None,None,1,3,4,1
+,46 TG9 S1 Loc,438.8875,431.8875,Digital,High,None,None,1,3,5,1
+,46 TG13 WWE,438.8875,431.8875,Digital,High,None,None,1,3,6,1
+,46 TG113 UA E1,438.8875,431.8875,Digital,High,None,None,1,3,9,1
+,46 TG123 UA E2,438.8875,431.8875,Digital,High,None,None,1,3,10,1
+,46 TG133 +USA,438.8875,431.8875,Digital,High,None,None,1,3,11,1
+,46 TG143 +UK,438.8875,431.8875,Digital,High,None,None,1,3,12,1
+,46 TG153 SthPac,438.8875,431.8875,Digital,High,None,None,1,3,13,1
+,46 TG505 AU,438.8875,431.8875,Digital,High,None,None,1,3,15,1
+,46 TG3800 AU+,438.8875,431.8875,Digital,High,None,None,1,3,17,2
+,46 TG3801 ACT,438.8875,431.8875,Digital,High,None,None,1,3,18,2
+,46 TG3802 NSW,438.8875,431.8875,Digital,High,None,None,1,3,19,2
+,46 TG3803 Vic,438.8875,431.8875,Digital,High,None,None,1,3,20,2
+,46 TG3804 Qld,438.8875,431.8875,Digital,High,None,None,1,3,21,2
+,46 TG3805 SA,438.8875,431.8875,Digital,High,None,None,1,3,22,2
+,46 TG3806 WA,438.8875,431.8875,Digital,High,None,None,1,3,23,2
+,46 TG3807 Tas,438.8875,431.8875,Digital,High,None,None,1,3,24,2
+,46 Ref Discnct,438.8875,431.8875,Digital,High,None,None,1,3,26,1
+,46 Rep Status,438.8875,431.8875,Digital,High,None,None,1,3,27,1
+,47 VK4RBK Scan,438.925,431.925,Digital,High,None,None,1,3,1,1
+,47 TG1 WW,438.925,431.925,Digital,High,None,None,1,3,2,1
+,47 TG5 VK Bcast,438.925,431.925,Digital,High,None,None,1,3,3,1
+,47 TG8 S1,438.925,431.925,Digital,High,None,None,1,3,4,1
+,47 TG9 S1 Loc,438.925,431.925,Digital,High,None,None,1,3,5,1
+,47 TG13 WWE,438.925,431.925,Digital,High,None,None,1,3,6,1
+,47 TG113 UA E1,438.925,431.925,Digital,High,None,None,1,3,9,1
+,47 TG123 UA E2,438.925,431.925,Digital,High,None,None,1,3,10,1
+,47 TG133 +USA,438.925,431.925,Digital,High,None,None,1,3,11,1
+,47 TG143 +UK,438.925,431.925,Digital,High,None,None,1,3,12,1
+,47 TG153 SthPac,438.925,431.925,Digital,High,None,None,1,3,13,1
+,47 TG505 AU,438.925,431.925,Digital,High,None,None,1,3,15,1
+,47 TG3800 AU+,438.925,431.925,Digital,High,None,None,1,3,17,2
+,47 TG3801 ACT,438.925,431.925,Digital,High,None,None,1,3,18,2
+,47 TG3802 NSW,438.925,431.925,Digital,High,None,None,1,3,19,2
+,47 TG3803 Vic,438.925,431.925,Digital,High,None,None,1,3,20,2
+,47 TG3804 Qld,438.925,431.925,Digital,High,None,None,1,3,21,2
+,47 TG3805 SA,438.925,431.925,Digital,High,None,None,1,3,22,2
+,47 TG3806 WA,438.925,431.925,Digital,High,None,None,1,3,23,2
+,47 TG3807 Tas,438.925,431.925,Digital,High,None,None,1,3,24,2
+,47 Ref Discnct,438.925,431.925,Digital,High,None,None,1,3,26,1
+,47 Rep Status,438.925,431.925,Digital,High,None,None,1,3,27,1
+,50 VK5RSF Scan,438.8375,431.8375,Digital,High,None,None,1,3,1,1
+,50 TG1 WW,438.8375,431.8375,Digital,High,None,None,1,3,2,1
+,50 TG5 VK Bcast,438.8375,431.8375,Digital,High,None,None,1,3,3,1
+,50 TG8 S1,438.8375,431.8375,Digital,High,None,None,1,3,4,1
+,50 TG9 S1 Loc,438.8375,431.8375,Digital,High,None,None,1,3,5,1
+,50 TG13 WWE,438.8375,431.8375,Digital,High,None,None,1,3,6,1
+,50 TG113 UA E1,438.8375,431.8375,Digital,High,None,None,1,3,9,1
+,50 TG123 UA E2,438.8375,431.8375,Digital,High,None,None,1,3,10,1
+,50 TG133 +USA,438.8375,431.8375,Digital,High,None,None,1,3,11,1
+,50 TG143 +UK,438.8375,431.8375,Digital,High,None,None,1,3,12,1
+,50 TG153 SthPac,438.8375,431.8375,Digital,High,None,None,1,3,13,1
+,50 TG505 AU,438.8375,431.8375,Digital,High,None,None,1,3,15,1
+,50 TG3800 AU+,438.8375,431.8375,Digital,High,None,None,1,3,17,2
+,50 TG3801 ACT,438.8375,431.8375,Digital,High,None,None,1,3,18,2
+,50 TG3802 NSW,438.8375,431.8375,Digital,High,None,None,1,3,19,2
+,50 TG3803 Vic,438.8375,431.8375,Digital,High,None,None,1,3,20,2
+,50 TG3804 Qld,438.8375,431.8375,Digital,High,None,None,1,3,21,2
+,50 TG3805 SA,438.8375,431.8375,Digital,High,None,None,1,3,22,2
+,50 TG3806 WA,438.8375,431.8375,Digital,High,None,None,1,3,23,2
+,50 TG3807 Tas,438.8375,431.8375,Digital,High,None,None,1,3,24,2
+,50 Ref Discnct,438.8375,431.8375,Digital,High,None,None,1,3,26,1
+,50 Rep Status,438.8375,431.8375,Digital,High,None,None,1,3,27,1
+,60 VK6RDM Scan,439.8625,434.8625,Digital,High,None,None,1,3,1,1
+,60 TG1 WW,439.8625,434.8625,Digital,High,None,None,1,3,2,1
+,60 TG5 VK Bcast,439.8625,434.8625,Digital,High,None,None,1,3,3,1
+,60 TG8 S1,439.8625,434.8625,Digital,High,None,None,1,3,4,1
+,60 TG9 S1 Loc,439.8625,434.8625,Digital,High,None,None,1,3,5,1
+,60 TG13 WWE,439.8625,434.8625,Digital,High,None,None,1,3,6,1
+,60 TG113 UA E1,439.8625,434.8625,Digital,High,None,None,1,3,9,1
+,60 TG123 UA E2,439.8625,434.8625,Digital,High,None,None,1,3,10,1
+,60 TG133 +USA,439.8625,434.8625,Digital,High,None,None,1,3,11,1
+,60 TG143 +UK,439.8625,434.8625,Digital,High,None,None,1,3,12,1
+,60 TG153 SthPac,439.8625,434.8625,Digital,High,None,None,1,3,13,1
+,60 TG505 AU,439.8625,434.8625,Digital,High,None,None,1,3,15,1
+,60 TG3800 AU+,439.8625,434.8625,Digital,High,None,None,1,3,17,2
+,60 TG3801 ACT,439.8625,434.8625,Digital,High,None,None,1,3,18,2
+,60 TG3802 NSW,439.8625,434.8625,Digital,High,None,None,1,3,19,2
+,60 TG3803 Vic,439.8625,434.8625,Digital,High,None,None,1,3,20,2
+,60 TG3804 Qld,439.8625,434.8625,Digital,High,None,None,1,3,21,2
+,60 TG3805 SA,439.8625,434.8625,Digital,High,None,None,1,3,22,2
+,60 TG3806 WA,439.8625,434.8625,Digital,High,None,None,1,3,23,2
+,60 TG3807 Tas,439.8625,434.8625,Digital,High,None,None,1,3,24,2
+,60 Ref Discnct,439.8625,434.8625,Digital,High,None,None,1,3,26,1
+,60 Rep Status,439.8625,434.8625,Digital,High,None,None,1,3,27,1
+,61 VK6RLM Scan,438.525,431.525,Digital,High,None,None,1,3,1,1
+,61 TG1 WW,438.525,431.525,Digital,High,None,None,1,3,2,1
+,61 TG5 VK Bcast,438.525,431.525,Digital,High,None,None,1,3,3,1
+,61 TG8 S1,438.525,431.525,Digital,High,None,None,1,3,4,1
+,61 TG9 S1 Loc,438.525,431.525,Digital,High,None,None,1,3,5,1
+,61 TG13 WWE,438.525,431.525,Digital,High,None,None,1,3,6,1
+,61 TG113 UA E1,438.525,431.525,Digital,High,None,None,1,3,9,1
+,61 TG123 UA E2,438.525,431.525,Digital,High,None,None,1,3,10,1
+,61 TG133 +USA,438.525,431.525,Digital,High,None,None,1,3,11,1
+,61 TG143 +UK,438.525,431.525,Digital,High,None,None,1,3,12,1
+,61 TG153 SthPac,438.525,431.525,Digital,High,None,None,1,3,13,1
+,61 TG505 AU,438.525,431.525,Digital,High,None,None,1,3,15,1
+,61 TG3800 AU+,438.525,431.525,Digital,High,None,None,1,3,17,2
+,61 TG3801 ACT,438.525,431.525,Digital,High,None,None,1,3,18,2
+,61 TG3802 NSW,438.525,431.525,Digital,High,None,None,1,3,19,2
+,61 TG3803 Vic,438.525,431.525,Digital,High,None,None,1,3,20,2
+,61 TG3804 Qld,438.525,431.525,Digital,High,None,None,1,3,21,2
+,61 TG3805 SA,438.525,431.525,Digital,High,None,None,1,3,22,2
+,61 TG3806 WA,438.525,431.525,Digital,High,None,None,1,3,23,2
+,61 TG3807 Tas,438.525,431.525,Digital,High,None,None,1,3,24,2
+,61 Ref Discnct,438.525,431.525,Digital,High,None,None,1,3,26,1
+,61 Rep Status,438.525,431.525,Digital,High,None,None,1,3,27,1
+,62 VK6RRR Scan,438.2,432.6,Digital,High,None,None,1,3,1,1
+,62 TG1 WW,438.2,432.6,Digital,High,None,None,1,3,2,1
+,62 TG5 VK Bcast,438.2,432.6,Digital,High,None,None,1,3,3,1
+,62 TG8 S1,438.2,432.6,Digital,High,None,None,1,3,4,1
+,62 TG9 S1 Loc,438.2,432.6,Digital,High,None,None,1,3,5,1
+,62 TG13 WWE,438.2,432.6,Digital,High,None,None,1,3,6,1
+,62 TG113 UA E1,438.2,432.6,Digital,High,None,None,1,3,9,1
+,62 TG123 UA E2,438.2,432.6,Digital,High,None,None,1,3,10,1
+,62 TG133 +USA,438.2,432.6,Digital,High,None,None,1,3,11,1
+,62 TG143 +UK,438.2,432.6,Digital,High,None,None,1,3,12,1
+,62 TG153 SthPac,438.2,432.6,Digital,High,None,None,1,3,13,1
+,62 TG505 AU,438.2,432.6,Digital,High,None,None,1,3,15,1
+,62 TG3800 AU+,438.2,432.6,Digital,High,None,None,1,3,17,2
+,62 TG3801 ACT,438.2,432.6,Digital,High,None,None,1,3,18,2
+,62 TG3802 NSW,438.2,432.6,Digital,High,None,None,1,3,19,2
+,62 TG3803 Vic,438.2,432.6,Digital,High,None,None,1,3,20,2
+,62 TG3804 Qld,438.2,432.6,Digital,High,None,None,1,3,21,2
+,62 TG3805 SA,438.2,432.6,Digital,High,None,None,1,3,22,2
+,62 TG3806 WA,438.2,432.6,Digital,High,None,None,1,3,23,2
+,62 TG3807 Tas,438.2,432.6,Digital,High,None,None,1,3,24,2
+,62 Ref Discnct,438.2,432.6,Digital,High,None,None,1,3,26,1
+,62 Rep Status,438.2,432.6,Digital,High,None,None,1,3,27,1
+,63 VK6RPT Scan,438.025,433.025,Digital,High,None,None,1,3,1,1
+,63 TG1 WW,438.025,433.025,Digital,High,None,None,1,3,2,1
+,63 TG5 VK Bcast,438.025,433.025,Digital,High,None,None,1,3,3,1
+,63 TG8 S1,438.025,433.025,Digital,High,None,None,1,3,4,1
+,63 TG9 S1 Loc,438.025,433.025,Digital,High,None,None,1,3,5,1
+,63 TG13 WWE,438.025,433.025,Digital,High,None,None,1,3,6,1
+,63 TG113 UA E1,438.025,433.025,Digital,High,None,None,1,3,9,1
+,63 TG123 UA E2,438.025,433.025,Digital,High,None,None,1,3,10,1
+,63 TG133 +USA,438.025,433.025,Digital,High,None,None,1,3,11,1
+,63 TG143 +UK,438.025,433.025,Digital,High,None,None,1,3,12,1
+,63 TG153 SthPac,438.025,433.025,Digital,High,None,None,1,3,13,1
+,63 TG505 AU,438.025,433.025,Digital,High,None,None,1,3,15,1
+,63 TG3800 AU+,438.025,433.025,Digital,High,None,None,1,3,17,2
+,63 TG3801 ACT,438.025,433.025,Digital,High,None,None,1,3,18,2
+,63 TG3802 NSW,438.025,433.025,Digital,High,None,None,1,3,19,2
+,63 TG3803 Vic,438.025,433.025,Digital,High,None,None,1,3,20,2
+,63 TG3804 Qld,438.025,433.025,Digital,High,None,None,1,3,21,2
+,63 TG3805 SA,438.025,433.025,Digital,High,None,None,1,3,22,2
+,63 TG3806 WA,438.025,433.025,Digital,High,None,None,1,3,23,2
+,63 TG3807 Tas,438.025,433.025,Digital,High,None,None,1,3,24,2
+,63 Ref Discnct,438.025,433.025,Digital,High,None,None,1,3,26,1
+,63 Rep Status,438.025,433.025,Digital,High,None,None,1,3,27,1
+,70 VK7RCR Scan,438.525,433.525,Digital,High,None,None,1,3,1,1
+,70 TG1 WW,438.525,433.525,Digital,High,None,None,1,3,2,1
+,70 TG5 VK Bcast,438.525,433.525,Digital,High,None,None,1,3,3,1
+,70 TG8 S1,438.525,433.525,Digital,High,None,None,1,3,4,1
+,70 TG9 S1 Loc,438.525,433.525,Digital,High,None,None,1,3,5,1
+,70 TG13 WWE,438.525,433.525,Digital,High,None,None,1,3,6,1
+,70 TG113 UA E1,438.525,433.525,Digital,High,None,None,1,3,9,1
+,70 TG123 UA E2,438.525,433.525,Digital,High,None,None,1,3,10,1
+,70 TG133 +USA,438.525,433.525,Digital,High,None,None,1,3,11,1
+,70 TG143 +UK,438.525,433.525,Digital,High,None,None,1,3,12,1
+,70 TG153 SthPac,438.525,433.525,Digital,High,None,None,1,3,13,1
+,70 TG505 AU,438.525,433.525,Digital,High,None,None,1,3,15,1
+,70 TG3800 AU+,438.525,433.525,Digital,High,None,None,1,3,17,2
+,70 TG3801 ACT,438.525,433.525,Digital,High,None,None,1,3,18,2
+,70 TG3802 NSW,438.525,433.525,Digital,High,None,None,1,3,19,2
+,70 TG3803 Vic,438.525,433.525,Digital,High,None,None,1,3,20,2
+,70 TG3804 Qld,438.525,433.525,Digital,High,None,None,1,3,21,2
+,70 TG3805 SA,438.525,433.525,Digital,High,None,None,1,3,22,2
+,70 TG3806 WA,438.525,433.525,Digital,High,None,None,1,3,23,2
+,70 TG3807 Tas,438.525,433.525,Digital,High,None,None,1,3,24,2
+,70 Ref Discnct,438.525,433.525,Digital,High,None,None,1,3,26,1
+,70 Rep Status,438.525,433.525,Digital,High,None,None,1,3,27,1
+,71 VK7RAA Scan,438.4125,431.4125,Digital,High,None,None,1,3,1,1
+,71 TG1 WW,438.4125,431.4125,Digital,High,None,None,1,3,2,1
+,71 TG5 VK Bcast,438.4125,431.4125,Digital,High,None,None,1,3,3,1
+,71 TG8 S1,438.4125,431.4125,Digital,High,None,None,1,3,4,1
+,71 TG9 S1 Loc,438.4125,431.4125,Digital,High,None,None,1,3,5,1
+,71 TG13 WWE,438.4125,431.4125,Digital,High,None,None,1,3,6,1
+,71 TG113 UA E1,438.4125,431.4125,Digital,High,None,None,1,3,9,1
+,71 TG123 UA E2,438.4125,431.4125,Digital,High,None,None,1,3,10,1
+,71 TG133 +USA,438.4125,431.4125,Digital,High,None,None,1,3,11,1
+,71 TG143 +UK,438.4125,431.4125,Digital,High,None,None,1,3,12,1
+,71 TG153 SthPac,438.4125,431.4125,Digital,High,None,None,1,3,13,1
+,71 TG505 AU,438.4125,431.4125,Digital,High,None,None,1,3,15,1
+,71 TG3800 AU+,438.4125,431.4125,Digital,High,None,None,1,3,17,2
+,71 TG3801 ACT,438.4125,431.4125,Digital,High,None,None,1,3,18,2
+,71 TG3802 NSW,438.4125,431.4125,Digital,High,None,None,1,3,19,2
+,71 TG3803 Vic,438.4125,431.4125,Digital,High,None,None,1,3,20,2
+,71 TG3804 Qld,438.4125,431.4125,Digital,High,None,None,1,3,21,2
+,7 TG3805 SA,438.4125,431.4125,Digital,High,None,None,1,3,22,2
+,71 TG3806 WA,438.4125,431.4125,Digital,High,None,None,1,3,23,2
+,71 TG3807 Tas,438.4125,431.4125,Digital,High,None,None,1,3,24,2
+,71 Ref Discnct,438.4125,431.4125,Digital,High,None,None,1,3,26,1
+,71 Rep Status,438.4125,431.4125,Digital,High,None,None,1,3,27,1
+,72 VK7RJD Scan,438.525,433.525,Digital,High,None,None,1,3,1,1
+,72 TG1 WW,438.525,433.525,Digital,High,None,None,1,3,2,1
+,72 TG5 VK Bcast,438.525,433.525,Digital,High,None,None,1,3,3,1
+,72 TG8 S1,438.525,433.525,Digital,High,None,None,1,3,4,1
+,72 TG9 S1 Loc,438.525,433.525,Digital,High,None,None,1,3,5,1
+,72 TG13 WWE,438.525,433.525,Digital,High,None,None,1,3,6,1
+,72 TG113 UA E1,438.525,433.525,Digital,High,None,None,1,3,9,1
+,72 TG123 UA E2,438.525,433.525,Digital,High,None,None,1,3,10,1
+,72 TG133 +USA,438.525,433.525,Digital,High,None,None,1,3,11,1
+,72 TG143 +UK,438.525,433.525,Digital,High,None,None,1,3,12,1
+,72 TG153 SthPac,438.525,433.525,Digital,High,None,None,1,3,13,1
+,72 TG505 AU,438.525,433.525,Digital,High,None,None,1,3,15,1
+,72 TG3800 AU+,438.525,433.525,Digital,High,None,None,1,3,17,2
+,72 TG3801 ACT,438.525,433.525,Digital,High,None,None,1,3,18,2
+,72 TG3802 NSW,438.525,433.525,Digital,High,None,None,1,3,19,2
+,72 TG3803 Vic,438.525,433.525,Digital,High,None,None,1,3,20,2
+,72 TG304 Qld,438.525,433.525,Digital,High,None,None,1,3,21,2
+,72 TG3805 SA,438.525,433.525,Digital,High,None,None,1,3,22,2
+,72 TG3806 WA,438.525,433.525,Digital,High,None,None,1,3,23,2
+,72 TG3807 Tas,438.525,433.525,Digital,High,None,None,1,3,24,2
+,72 Ref Discnct,438.525,433.525,Digital,High,None,None,1,3,26,1
+,72 Rep Status,438.525,433.525,Digital,High,None,None,1,3,27,1

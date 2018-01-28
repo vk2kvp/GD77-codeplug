@@ -5,8 +5,8 @@ This codeplug is based on that originally developed for TYT MD380 by Matt VK2MRC
 
 <b>Hotspot/Dongle Frequencies:</b> Australian band plan assigns the following 70cm frequencies for Internet gateways:
 - 439.125 (used for the DV4 channels to suit DV4mini)
-- 439.1375 (not allocated, but used in Z1 channels for my CHINspot)
 - 439.150 (used for the DVm channels to suit DVmega and other MMDVM hotspots.)
+- 439.175 (not allocated, but used in Z bm channels for my CHINspot)
 
 439.200 is assigned for digital simplex operation.
 
@@ -20,5 +20,6 @@ This codeplug is based on that originally developed for TYT MD380 by Matt VK2MRC
 - used analogue channels as entered by Graham VK2AWS and sorted into alphabetical order.
 - created a comprehensive list of contacts for DMR-MARC, DMR+ and Brandmeister talkgroups as well as reflectors for DMR+
 - entered a selection of popular taklgroups for each of the DMR repeaters listed in the WIA Repeaters list of Oct 2017, plus all listed in the "DMR Repeaters" Android app 
-- created zones and corresponding scan lists for Home, Hotspots, DVm and each DMR repeater
+- created zones and corresponding scan lists for three Hotspots and each DMR repeater
+- commenced creation of scan lists
 

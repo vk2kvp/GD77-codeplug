@@ -20,6 +20,7 @@ This codeplug is based on that originally developed for TYT MD380 by Matt VK2MRC
 - used analogue channels as entered by Graham VK2AWS and sorted into alphabetical order.
 - created a comprehensive list of contacts for DMR-MARC, DMR+ and Brandmeister talkgroups as well as reflectors for DMR+
 - entered a selection of popular taklgroups for each of the DMR repeaters listed in the WIA Repeaters list of Oct 2017, plus all listed in the "DMR Repeaters" Android app 
-- created zones and corresponding scan lists for three Hotspots and each DMR repeater
-- commenced creation of scan lists
+- created zones for three Hotspots and each DMR repeater
+- commenced creation of scan lists to correspond to zones
+- Number Keys assigned to Brandmeister TGs 0->505, 1-7->5051-5057, 9->50599
 

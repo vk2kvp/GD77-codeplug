@@ -26,7 +26,12 @@ This codeplug is based on that originally developed for TYT MD380 by Matt VK2MRC
 - created a comprehensive list of contacts for DMR-MARC, DMR+ and Brandmeister talkgroups as well as reflectors for DMR+
 - entered a selection of popular taklgroups for each of the DMR repeaters listed in the WIA Repeaters list of Oct 2017, plus all listed in the "DMR Repeaters" Android app 
 - created zones for three Hotspots and each DMR repeater
+<b>Release Notes - GD77_All_AU_DMR+analog_v0.2</b> 
 - commenced creation of scan lists to correspond to zones
+<b>Release Notes - GD77_All_AU_DMR+analog_v0.3</b> 
 - Number Keys assigned to Brandmeister TGs 0->505, 1-7->5051-5057, 9->50599
 - Corrections to some channel names and Contact Group values were made in the codeplug using the GD-77 CPS and may not be reflected in the csv files.
-
+<b>Release Notes - GD77_All_AU_DMR+analog_v0.4</b>
+- Reset the VFO channels turning off Digital parameters to overcome auto transmit bug.
+- Created zone for Analogue SA (Adelaide analogue repeaters)
+- Created "SA Anlg Scan" channel and scan list Analogue SA for Adelaide & SE SA analogue repeaters.

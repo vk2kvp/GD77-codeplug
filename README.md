@@ -40,5 +40,5 @@ This codeplug is based on that originally developed for TYT MD380 by Matt VK2MRC
 - Created "SA Anlg Scan" channel and scan list Analogue SA for Adelaide & SE SA analogue repeaters.
 
 <b>Release Notes - GD77_All_AU_DMR+analog_v0.5</b>
-- Created scan lists for ACT and NSW repeaters and set the corresponding "Scan" channel to auto scan. Added the appropriate scan list to all channels with 2x as prefix in channel name.
+- Created scan lists for ACT and NSW DMR-MARC and DMR+ repeaters and set the corresponding "Scan" channel to auto scan. Added the appropriate scan list to all channels with 2x as prefix in channel name.
 - Identified an issue with the 15th scan list where it would not hold the channels added. Instead the channels would revert to ones earlier in the channel list. No further scan lists added.

@@ -21,28 +21,32 @@ This codeplug is based on that originally developed for TYT MD380 by Matt VK2MRC
 
 <b>To use these Codeplugs:</b> Before you write these codeplugs to your radio, replace the callsign and DMR ID with your own in General settings.
 
-<b>Release Notes - GD77_All_AU_DMR+analog_v0.1</b> 
-- used analogue channels as entered by Graham VK2AWS and sorted into alphabetical order.
-- created a comprehensive list of contacts for DMR-MARC, DMR+ and Brandmeister talkgroups as well as reflectors for DMR+
-- entered a selection of popular taklgroups for each of the DMR repeaters listed in the WIA Repeaters list of Oct 2017, plus all listed in the "DMR Repeaters" Android app 
-- created zones for three Hotspots and each DMR repeater
-
-<b>Release Notes - GD77_All_AU_DMR+analog_v0.2</b> 
-- commenced creation of scan lists to correspond to zones
-
-<b>Release Notes - GD77_All_AU_DMR+analog_v0.3</b> 
-- Number Keys assigned to Brandmeister TGs 0->505, 1-7->5051-5057, 9->50599
-- Corrections to some channel names and Contact Group values were made in the codeplug using the GD-77 CPS and may not be reflected in the csv files.
-
-<b>Release Notes - GD77_All_AU_DMR+analog_v0.4</b>
-- Reset the VFO channels turning off Digital parameters to overcome auto transmit bug.
-- Created zone for Analogue SA (Adelaide analogue repeaters)
-- Created "SA Anlg Scan" channel and scan list Analogue SA for Adelaide & SE SA analogue repeaters.
+<b>Release Notes - GD77_All_AU_DMR+analog_v0.6</b>
+- Completed scan lists for all DMR-MARC and DMR+ repeaters (using GB3GF's CSV tool to export and import). <b>NOTE:</b> DO NOT open the Scan Lists in CSP v2.0.5 for my codeplugs from v0.6 onwards. This will destroy most of the scan lists. To edit the scan lists. Use GB3GF's CSV tool to export and import.
 
 <b>Release Notes - GD77_All_AU_DMR+analog_v0.5</b>
 - Created scan lists for ACT and NSW DMR-MARC and DMR+ repeaters and set the corresponding "Scan" channel to auto scan. Added the appropriate scan list to all channels with 2x as prefix in channel name.
 - Identified an issue with the 15th scan list where it would not hold the channels added. Instead the channels would revert to ones earlier in the channel list. No further scan lists added. GB3GF advised of a bug in CPS 2.0.5 limiting scan lists frequencies to 1byte (255 limit). I will make future updates using CSV files and GB3GF's CSV tool available from http://www.gb3gf.co.uk/downloads.html
 - Added corresponding CSV files to this repository in GD77-All_AU_Codeplug_v0.5_csv.zip
 
-<b>Release Notes - GD77_All_AU_DMR+analog_v0.6</b>
-- Completed scan lists for all DMR-MARC and DMR+ repeaters (using GB3GF's CSV tool to export and import). <b>NOTE:</b> DO NOT open the Scan Lists in CSP v2.0.5 for my codeplugs gtom v0.6 onwards. This will destroy most of the scan lists. To edit the scan lists. Use GB3GF's CSV tool to export and import.
+<b>Release Notes - GD77_All_AU_DMR+analog_v0.4</b>
+- Reset the VFO channels turning off Digital parameters to overcome auto transmit bug.
+- Created zone for Analogue SA (Adelaide analogue repeaters)
+- Created "SA Anlg Scan" channel and scan list Analogue SA for Adelaide & SE SA analogue repeaters.
+
+<b>Release Notes - GD77_All_AU_DMR+analog_v0.3</b> 
+- Number Keys assigned to Brandmeister TGs 0->505, 1-7->5051-5057, 9->50599
+- Corrections to some channel names and Contact Group values were made in the codeplug using the GD-77 CPS and may not be reflected in the csv files.
+
+<b>Release Notes - GD77_All_AU_DMR+analog_v0.2</b> 
+- commenced creation of scan lists to correspond to zones
+
+<b>Release Notes - GD77_All_AU_DMR+analog_v0.1</b> 
+- used analogue channels as entered by Graham VK2AWS and sorted into alphabetical order.
+- created a comprehensive list of contacts for DMR-MARC, DMR+ and Brandmeister talkgroups as well as reflectors for DMR+
+- entered a selection of popular taklgroups for each of the DMR repeaters listed in the WIA Repeaters list of Oct 2017, plus all listed in the "DMR Repeaters" Android app 
+- created zones for three Hotspots and each DMR repeater
+
+
+
+

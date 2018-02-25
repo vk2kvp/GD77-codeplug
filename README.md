@@ -19,10 +19,12 @@ This codeplug is based on that originally developed for TYT MD380 by Matt VK2MRC
 
 <b>Importing from csv files</b>. If you are using a CPS version other then v2.0.5 first export the Channels and Contacts csv files from your existing codeplug and study their structure. You can then download the csv files on this page and modify them to suit your firmware version - change the field structure to match your firmware before you import your adjusted Contacts and Channels into the CPS. Then create your zones and scan lists before writing to the GD-77.  NOTE that the Contacts must be imported before the Channels. Edit and merge the Channels files to suit your local requirements, but do not change the Contacts CSV values - the channels depend on it.  To change a Contact value on a Channels csv, add one (+1) to the Number field value displayed int the Channels_v0.2.csv 
 
+<b>Re-engineered Radioddity GD-77 CPS</b>. Numerious issues exist with the CPS supplied by the manufacturer. Roger Clark has decompiled the CPS for firmware v3.0.6 and re-engineered it to overcome many of these. Details of his work and links to his CPS can be found at: http://www.rogerclark.net/re-engineered-radioddity-gd-77-cps/
+
 <b>To use these Codeplugs:</b> Before you write these codeplugs to your radio, replace the callsign and DMR ID with your own in General settings.
 
 <b>Release Notes - GD77_All_AU_DMR+analog_v0.6</b>
-- Completed scan lists for all DMR-MARC and DMR+ repeaters (using GB3GF's CSV tool to export and import). <b>NOTE:</b> DO NOT open the Scan Lists in CSP v2.0.5 for my codeplugs from v0.6 onwards. This will destroy most of the scan lists. To edit the scan lists. Use GB3GF's CSV tool to export and import.
+- Completed scan lists for all DMR-MARC and DMR+ repeaters (using GB3GF's CSV tool to export and import). <b>NOTE:</b> DO NOT open the Scan Lists in CSP v2.0.5 for my codeplugs from v0.6 onwards. This will destroy most of the scan lists. To edit the scan lists. Use GB3GF's CSV tool to export and import. Roger Clark's re-engineered CPS works fine and does not break the codeplug, so so you can use it to edit all the tables. 
 
 <b>Release Notes - GD77_All_AU_DMR+analog_v0.5</b>
 - Created scan lists for ACT and NSW DMR-MARC and DMR+ repeaters and set the corresponding "Scan" channel to auto scan. Added the appropriate scan list to all channels with 2x as prefix in channel name.
